@@ -1,113 +1,60 @@
-# Projeto de Compras 
-<br id="topo">
+<span id="topo">
+
+<h1 align="center">Sprint 3: 03/06/2024 a 17/06/2024</h1>
+
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs & User Stories</a>  |
-    <a href="#prototipo">Protótipo & Documentação</a>  | 
-    <a href="#link">Links Uteis</a>  |
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>  |
-     
-    
+    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#links">Links úteis</a>
 </p>
 
-<span id="sobre">
+Na última sprint o objetivo foi finalizar o sistema de status de pedidos no ambiente do diretor de serviços administrativos, permitindo sua utilização e usabilidade, atendendo os pedidos do cliente.
 
-## :bookmark_tabs: Sobre
-A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, o desenvolvimento do site para facilitar o trabalho do funcionário responsável pelo trabalho de compras, consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
+<span id="objetivos">
 
->_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre funcionários da instituição_
+## :dart: Objetivos da Sprint
 
-Baseado em necessidades apontadas por funcionários, o usuário utilizará o sistema para armazenar dados que serão utilizados posteriormente em um novo pedido de compra, de forma que organize opções de compras e otimize tempo de pesquisa.
+Os requisitos abrangidos por essa sprint são:
+- **RF 10:** Alterar status de um pedido realizado
+- **RF 11:** Escrever descrição do cancelamento de um pedido
+- **RNF 21:** Status possui 2 estados além do padrão
+- **RNF 22:** O sistema tem que estar ativo a todo o momento
 
-A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
-
-
-:pushpin: Status do Projeto: **✔️ Concluído** 
-
-### 🏁 Entregas de Sprints
-| Sprint | Previsão | Status | Histórico |
-|:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
-| 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
-| 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
-
-### :clapper: Apresentação Final
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-<details>
-   <summary>Diretor de Serviços Administrativos</summary>
-    <div align="center">
-        <img src="./interface_admin.gif">
-    </div>
-</details>
-<details>
-   <summary>Funcionários</summary>
-    <div align="center">
-          <img src="./interface_usuario.gif">
-    </div>
-</details>
-    
-→ [Voltar ao topo](#topo)
-
-<span id="backlogs">
-    
-## 👷 Backlogs & User Stories
 <div align="center">
-    <img src="requisitos.png">
-   <img src="requisitosnf.png">
 
-   <img src="user_stories.png">
+![demo](./demo.gif)
 </div>
 
-→ [Voltar ao topo](#topo)
+<span id="entregas">
 
+## :heavy_check_mark: Entregas
+
+<div align="center">
+
+### RF 10 : Alterar status de um pedido realizado
+
+Este requisito tem como objetivo criar um dado informativo para histórico e para feedback do segmento dos pedidos para os funcionários da instituição.
+
+- **Funcionário diretor de serviços administrativos** pode alterar os status para manter o funcionário que realizou o pedido informado.
+- **Funcionário Geral** pode vizualizar a mudança para se informar do status de seu pedido.
+
+### RF 11 : Escrever descrição do cancelamento de um pedido
+
+Este requisito se refere ao caso do funcionário diretor de serviços administrativos desejar cancelar um pedido, uma justificativa será preenchida para esclarecer possíveis dúvidas sobre o cancelamento do pedido.
+
+- **Funcionário diretor de serviços administrativos** escreve em detalhes o motivo de cancelamento de um pedido.
+- **Funcionário Geral** vizualiza a justificativa e se informa do motivo do cancelamento de seu pedido.
+
+</div>
+
+<details>
+   <summary>Diagrama de classes</summary>
+   <h4>Diagrama de classes mapeado do frontend</h4>
     
-## Protótipo e Documentação
-### 🏠 Protótipo 
-<span id="prototipo">
-    Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
-    O acesso ao protótipo pode ser feito <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
-
-
-### 📄 Documentação 
-As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. 
-Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
-E [Documentação ihc](ihc_compras.pdf). <br>
-
-<span id="link">
+   ![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/127141305/1ff24ea3-3fcc-4c4e-807f-66218933f2e0)
     
-> 🔗 **Links gerais** <br>
-> - Link do sistema funcional: [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app)
-> - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
-
-
-## 🛠️ Tecnologias Utilizadas 
-<span id="tecnologias">
-    <p align="center">
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,mongodb,vercel,vscode,figma" />
-  </a>
-</p>
-</span>
-
-
-## :busts_in_silhouette: Equipe
-
-
-<span id="equipe">
-    
-
-|    Função     |                  Nome                 |                          GitHub                              | 
-| :-----------: | :-----------------------------------: | :----------------------------------------------------------: |
-| Product Owner | Eduardo Brando Almeida                |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eduardo-Brando-Almeida)|
-| Dev Team | Paulo César Ap. Q. V. Victório             |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/paulovictorio)|
-| Dev Team  | Felipe Thiago da Silva                    |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-Thiago)|
-| Dev Team | Thiago Saldanha Diegoli                    |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/thiago-diegoli)|
-| Dev Team | Yara Paes de Bona                          |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)|
+</details>
 
 → [Voltar ao topo](#topo)
-
-
-## 🪪 Licença
-
-The MIT License (MIT) 2024
+    
+<span id="links">
