@@ -1,113 +1,74 @@
-# Projeto de Compras 
-<br id="topo">
+<span id="topo">
+
+<h1 align="center">Sprint 1: 06/05/2024 a 20/05/2024</h1>
+
 <p align="center">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs & User Stories</a>  |
-    <a href="#prototipo">Protótipo & Documentação</a>  | 
-    <a href="#link">Links Uteis</a>  |
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>  |
-     
-    
+    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#links">Links úteis</a>
 </p>
 
-<span id="sobre">
+O desenvolvimento do site visa facilitar o trabalho do funcionário responsável pelo trabalho de compras foi desenvolvido, como um sistema de envio de solicitações de produtos e gerenciamento de solicitações. Tendo em mente o MVC, o primeiro sprint teve como objetivo desenvolver o cadastro e login de usuários, além de realizar a implementação inicial do Web Services de busca da Bolsa Eletrônica de Compras (BEC), utilizada para a pesquisa de produtos e integrada ao projeto com o objetivo de ajudar na exatidão dos pedidos realizados. Para isso, foram levantados e validados os requisitos e o protótipo, construindo serviços e interfaces visando uma entrega de grande valor condizente com a dor do cliente.
 
-## :bookmark_tabs: Sobre
-A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, o desenvolvimento do site para facilitar o trabalho do funcionário responsável pelo trabalho de compras, consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
+<span id="objetivos">
 
->_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre funcionários da instituição_
+## :dart: Objetivos da Sprint
 
-Baseado em necessidades apontadas por funcionários, o usuário utilizará o sistema para armazenar dados que serão utilizados posteriormente em um novo pedido de compra, de forma que organize opções de compras e otimize tempo de pesquisa.
+Os requisitos abrangidos por essa sprint são:
+- **RF 01:** Realizar cadastro
+- **RF 02:** Login do usuário
+- **RF 03:** Pesquisa de produtos pelo Web Service da BEC
+- **RNF 12:** Utilizar HTML e CSS
+- **RNF 13:** Utilizar JavaScript
+- **RNF 14:** Utilizar Angular
+- **RNF 15:** Utilizar banco NoSQL
+- **RNF 16:** Autenticação de Usuário via JWT
+- **RNF 17:** Implementar Web Service de pesquisa da BEC
 
-A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
+<span id="entregas">
 
+## :heavy_check_mark: Entregas
 
-:pushpin: Status do Projeto: **✔️ Concluído** 
+Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente.
 
-### 🏁 Entregas de Sprints
-| Sprint | Previsão | Status | Histórico |
-|:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
-| 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
-| 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
+Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo, escrito utilizando Angular e com a integração das funcionalidades acordadas para a primeira sprint pode ser observado a seguir:
 
-### :clapper: Apresentação Final
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-<details>
-   <summary>Diretor de Serviços Administrativos</summary>
-    <div align="center">
-        <img src="./interface_admin.gif">
-    </div>
-</details>
-<details>
-   <summary>Funcionários</summary>
-    <div align="center">
-          <img src="./interface_usuario.gif">
-    </div>
-</details>
-    
-→ [Voltar ao topo](#topo)
-
-<span id="backlogs">
-    
-## 👷 Backlogs & User Stories
 <div align="center">
-    <img src="requisitos.png">
-   <img src="requisitosnf.png">
 
-   <img src="user_stories.png">
-</div>
+![demo](./demo.gif)
+
+<div>
+
+Este protótipo valida a entrega dos requisitos confirmados para a sprint, onde suas descrições podem ser checadas a seguir:
+
+### RF 01 e RF 02: Realizar cadastro e login de usuário
+
+Este requisito se trata do cadastro e login de usuários, apenas os funcionários gerais realizam o cadastro, como descrito no caso de uso. Ambos os usuários realizarão login, porém terão telas especificas, por exemplo: 
+- **Funcionário geral** tem uma página com a opção de realizar pesquisas com a web service da BEC, opção de quantidade e discrição do pedido.
+- **Funcionário diretor de serviços administrativos** tem uma página com o histórico dos pedidos realizados e um filtro para realizar pesquisas especificas.
+
+### RF 03: Pesquisa de produtos pela web service da BEC
+
+Este requisito se trata da pesquisa de produtos por uma web service conectada a bolsa eletrônica de compras, que retornara os produtos pesquisados e a natureza do produto em questão e seu id para adicioná-lo a um pedido.
+
+
+<details>
+   <summary>Diagrama de classes</summary>
+   <h4>Diagrama de classes mapeado do frontend</h4>
+    
+   ![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/78160698/16ba36aa-3361-4ae2-bb36-3c48d4ffdd10)
+
+
+    
+</details>
 
 → [Voltar ao topo](#topo)
 
     
-## Protótipo e Documentação
-### 🏠 Protótipo 
-<span id="prototipo">
-    Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
-    O acesso ao protótipo pode ser feito <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
+<span id="links">
 
+## :link: Links úteis
 
-### 📄 Documentação 
-As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. 
-Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
-E [Documentação ihc](ihc_compras.pdf). <br>
-
-<span id="link">
-    
-> 🔗 **Links gerais** <br>
-> - Link do sistema funcional: [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app)
-> - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
-
-
-## 🛠️ Tecnologias Utilizadas 
-<span id="tecnologias">
-    <p align="center">
-      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,mongodb,vercel,vscode,figma" />
-  </a>
-</p>
-</span>
-
-
-## :busts_in_silhouette: Equipe
-
-
-<span id="equipe">
-    
-
-|    Função     |                  Nome                 |                          GitHub                              | 
-| :-----------: | :-----------------------------------: | :----------------------------------------------------------: |
-| Product Owner | Eduardo Brando Almeida                |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eduardo-Brando-Almeida)|
-| Dev Team | Paulo César Ap. Q. V. Victório             |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/paulovictorio)|
-| Dev Team  | Felipe Thiago da Silva                    |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-Thiago)|
-| Dev Team | Thiago Saldanha Diegoli                    |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/thiago-diegoli)|
-| Dev Team | Yara Paes de Bona                          |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)|
-
-→ [Voltar ao topo](#topo)
-
-
-## 🪪 Licença
-
-The MIT License (MIT) 2024
+- Repositório do projeto: [Projeto de compras](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+- Site do projeto: [https://projeto-mvc-restful-frontend.vercel.app](https://projeto-mvc-restful-frontend.vercel.app) (usuário exemplo - email: `usuario@email.com`, senha: `senha123`)
+- Voltar ao [documento principal](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/main/README.md)
