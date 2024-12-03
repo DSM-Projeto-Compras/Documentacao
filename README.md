@@ -85,7 +85,7 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 <span id="tecnologias">
     <p align="center">
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,mongodb,vercel,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,nodejs,mongodb,vercel,vscode,figma" />
   </a>
 </p>
 </span>
