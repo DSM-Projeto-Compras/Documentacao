@@ -52,11 +52,55 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <span id="backlogs">
     
 ## 👷 Backlogs & User Stories
-<div align="center">
-    <img src="requisitos.png">
-   <img src="requisitosnf.png">
+### Requisitos Funcionais
 
-   <img src="user_stories.png">
+| ID |      Título      |                    Descrição                         |            Exceções            |
+|:--:|:-----------------:|:---------------------------------------------------:|:------------------------------:|
+| RF01 | Realizar Cadastro | Caixas de texto para nome, email e senha | Alerta para email já existente |
+| | | Botão de criar conta | Alerta para erro no cadastro |
+| | | Botão para retornar à página inicial | |
+| RF02 | Realizar Login | Caixas de texto para email e senha | Mensagem para usuário ou senha incorretos |
+| | | Botão para entrar no sistema | Alerta para erro no login |
+| | | Caixa "Lembrar senha" | |
+| | | Botão "ir para cadastro" | |
+| RF03 | Rodapé | Botões de acesso à página de requisição, histórico e sair do sistema (usuário) | |
+| | | Botões de acesso à página de criar um novo admin, histórico e sair do sistema (admin) | |
+| RF04 | Requisitar produto | Caixa de texto para pesquisar produto | Alerta para erro na requisição |
+| | | Caixa de texto para pesquisar categoria | |
+| | | Caixas de texto para quantidade e descrição | | 
+| | | Botão para envio da requisição | |
+| RF05 | Visualização do histórico de pedidos | Caixa contendo dados do pedido | |
+| | | Visualização do status do produto | |
+| RF06 | Editar um pedido pendente (usuário) | Caixas de texto para quantidade, categoria, tipo e descrição | Alerta para erro na exclusão | 
+| | | Botão para excluir pedido | Alerta para erro na confirmação da edição |
+| | | Confirmação da exclusão | |
+| | | Confirmação da edição | |
+| RF07 | Visualização dos detalhes de um pedido | Botão para ver detalhes | Alerta para erro na visualização dos detalhes |
+| | | Botão para voltar ao histórico | |
+| RF08 | Visualização da justificativa de um pedido negado | Botão para ver justificativa | Alerta para erro na visualização da justificativa |
+| | | Botão para voltar ao histórico | Alerta para erro no envio da justificativa |
+| | | Botão para confirmar justificativa (administrador) | | 
+| | | Caixa de texto para descrever justificativa (administrador) | |
+| RF09 | Cadastro de novo usuário administrador | Caixas de texto para nome, email e senha | Alerta para erro ao criar conta |
+| | | Botão para criar conta | Alerta para email já existente |
+| RF10 | Lista de usuários administradores | Caixa contendo dados de nome e email | Alerta para erro ao excluir usuário |
+| | | Botão para excluir usuário | |
+
+ ### Requisitos Não Funcionais
+|   ID  |  Título  |
+|:-----:|:------:|
+| RNF01 | Linguagens JavaScript e React Native |
+| RNF02 | Uso da biblioteca expo dev |
+| RNF03 | Uso de Banco de Dados SQLite para dados de usuários e requisições |
+| RNF04 | Uso da API de pesquisa da BEC |
+| RNF05 | Criptografia da senha dos usuários | 
+| RNF06 | Segurança contra injeção de SQL |
+| RNF07 | Sistema ativo a todo o tempo |
+| RNF08 | Responsividade entre diferentes dispositivos móveis |
+| RNF09 | Autenticação do usuário por SPA |
+ 
+<div align="center">
+    <img src="user_stories.png">
 </div>
 
 → [Voltar ao topo](#topo)
