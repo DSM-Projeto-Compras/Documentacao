@@ -31,8 +31,8 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
-| 04 | 05/06/2026 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-04/README.md)|
-| 05 | 17/06/2024 |   ✖Pendente     |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-05/README.md)|
+| 04 | 05/06/2026 |  ✔️Concluído    |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-04/README.md)|
+| 05 | 17/06/2024 |   ✖Pendente     | Em andamento |
 
 ### :clapper: Apresentação Final
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
