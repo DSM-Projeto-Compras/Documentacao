@@ -58,35 +58,36 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 | ID |      Título      |                    Descrição                         |            Exceções            |
 |:--:|:-----------------:|:---------------------------------------------------:|:------------------------------:|
-| RF01 | Realizar Cadastro | Caixas de texto para nome, email e senha | Alerta para email já existente |
-| | | Botão de criar conta | Alerta para erro no cadastro |
-| | | Botão para retornar à página inicial | |
-| RF02 | Realizar Login | Caixas de texto para email e senha | Mensagem para usuário ou senha incorretos |
-| | | Botão para entrar no sistema | Alerta para erro no login |
-| | | Caixa "Lembrar senha" | |
-| | | Botão "ir para cadastro" | |
-| RF03 | Rodapé (mobile) | Botões de acesso à página de requisição, histórico e sair do sistema (usuário) | |
-| | | Botões de acesso à página de criar um novo admin, histórico e sair do sistema (admin) | |
-| RF04 | Requisitar produto | Caixa de texto para pesquisar produto | Alerta para erro na requisição |
-| | | Caixa de texto para pesquisar categoria | |
-| | | Caixas de texto para quantidade e descrição | | 
-| | | Botão para envio da requisição | |
-| RF05 | Visualização do histórico de pedidos | Caixa contendo dados do pedido | |
-| | | Visualização do status do produto | |
-| RF06 | Editar um pedido pendente (usuário) | Caixas de texto para quantidade, categoria, tipo e descrição | Alerta para erro na exclusão | 
-| | | Botão para excluir pedido | Alerta para erro na confirmação da edição |
+| RF01 | Realizar Cadastro | Cadastrar nome, email e senha | Alerta para email já existente |
+| | | Retornar à página inicial por botão | Alerta para erro no cadastro |
+| RF02 | Realizar Login | Inserir email e senha | Mensagem para usuário ou senha incorretos |
+| | | Entrar no sistema por botão | Alerta para erro no login |
+| | | Marcar opção "lembrar senha" | |
+| | | Acessar botão "ir para cadastro" | |
+| RF03 | Rodapé (mobile) | Acessar página de requisição, histórico e sair do sistema (usuário) | |
+| | | Acessar página de criar um novo admin, histórico e sair do sistema (admin) | |
+| RF04 | Requisitar produto | Pesquisar produto por caixa de texto| Alerta para erro na requisição |
+| | | Pesquisar categoria por caixa de texto | |
+| | | Inserir quantidade e descrição | | 
+| | | Enviar requisição por botão | |
+| RF05 | Visualização do histórico de pedidos | Visualizar dados do pedido | |
+| | | Visualizar status do produto | |
+| RF06 | Editar um pedido pendente (usuário) | Inserir quantidade, categoria, tipo e descrição | Alerta para erro na exclusão | 
+| | | Excluir pedido | Alerta para erro na confirmação da edição |
 | | | Confirmação da exclusão | |
 | | | Confirmação da edição | |
-| RF07 | Visualização dos detalhes de um pedido | Botão para ver detalhes | Alerta para erro na visualização dos detalhes |
-| | | Botão para voltar ao histórico | |
-| RF08 | Visualização da justificativa de um pedido negado | Botão para ver justificativa | Alerta para erro na visualização da justificativa |
-| | | Botão para voltar ao histórico | Alerta para erro no envio da justificativa |
-| | | Botão para confirmar justificativa (administrador) | | 
-| | | Caixa de texto para descrever justificativa (administrador) | |
-| RF09 | Cadastro de novo usuário administrador | Caixas de texto para nome, email e senha | Alerta para erro ao criar conta |
-| | | Botão para criar conta | Alerta para email já existente |
-| RF10 | Lista de usuários administradores | Caixa contendo dados de nome e email | Alerta para erro ao excluir usuário |
-| | | Botão para excluir usuário | |
+| RF07 | Visualização dos detalhes de um pedido | Ver detalhes por botão | Alerta para erro na visualização dos detalhes |
+| | | Voltar ao histórico por botão | |
+| RF08 | Visualização da justificativa de um pedido negado | Ver justificativa por botão | Alerta para erro na visualização da justificativa |
+| | | Voltar ao histórico por botão | Alerta para erro no envio da justificativa |
+| | | Confirmar justificativa (administrador) | | 
+| | | Descrever justificativa (administrador) em caixa de texto | |
+| RF09 | Cadastro de novo usuário administrador | Inserir nome, email e senha | Alerta para erro ao criar conta |
+| | | Criar conta por botão | Alerta para email já existente |
+| RF10 | Lista de usuários administradores | Inserir dados de nome e email | Alerta para erro ao excluir usuário |
+| | | Excluir usuário por botão| |
+| RF11 | Alteração do status de um pedido (administrador) | Selecionar opções de "aprovar/negar" | Alerta para erro ao alterar status |
+| | | Alterar visual do status para negado (vermelho) ou aprovado (verde) | |
 
  ### Requisitos Não Funcionais
 |   ID  |             Título            |
