@@ -65,7 +65,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | | | Botão para entrar no sistema | Alerta para erro no login |
 | | | Caixa "Lembrar senha" | |
 | | | Botão "ir para cadastro" | |
-| RF03 | Rodapé | Botões de acesso à página de requisição, histórico e sair do sistema (usuário) | |
+| RF03 | Rodapé (mobile) | Botões de acesso à página de requisição, histórico e sair do sistema (usuário) | |
 | | | Botões de acesso à página de criar um novo admin, histórico e sair do sistema (admin) | |
 | RF04 | Requisitar produto | Caixa de texto para pesquisar produto | Alerta para erro na requisição |
 | | | Caixa de texto para pesquisar categoria | |
