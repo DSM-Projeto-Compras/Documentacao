@@ -31,6 +31,8 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
+| 04 | 05/06/2026 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-04/README.md)|
+| 05 | 17/06/2024 |   ✖Pendente     |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-05/README.md)|
 
 ### :clapper: Apresentação Final
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
@@ -87,21 +89,39 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | | | Botão para excluir usuário | |
 
  ### Requisitos Não Funcionais
-|   ID  |  Título  |
-|:-----:|:------:|
-| RNF01 | Linguagens JavaScript e React Native |
-| RNF02 | Uso da biblioteca expo dev |
-| RNF03 | Uso de Banco de Dados SQLite para dados de usuários e requisições |
-| RNF04 | Uso da API de pesquisa da BEC |
-| RNF05 | Criptografia da senha dos usuários | 
-| RNF06 | Segurança contra injeção de SQL |
-| RNF07 | Sistema ativo a todo o tempo |
-| RNF08 | Responsividade entre diferentes dispositivos móveis |
-| RNF09 | Autenticação do usuário por SPA |
+|   ID  |             Título            |
+|:-----:|:-----------------------------:|
+| RNF01 | Linguagens JavaScript e React |
+| RNF02 | Uso da biblioteca expo dev para o mobile |
+| RNF03 | Uso do framework nextjs para o web | 
+| RNF04 | Uso de Banco de Dados SQLite para dados de usuários e requisições |
+| RNF05 | Uso da API de pesquisa da BEC |
+| RNF06 | Criptografia da senha dos usuários | 
+| RNF07 | Segurança contra injeção de SQL |
+| RNF08 | Sistema ativo a todo o tempo |
+| RNF09 | Responsividade entre diferentes dispositivos móveis |
+| RNF10 | Autenticação do usuário por SPA |
+| RNF11 | Projeto disponível na nuvem |
+
+## User Stories
+|  Épico | ID |       Ator        |        Ação         | Motivo |
+|:------:|:--:|:-----------------:|:-------------------:|:------:|
+|   01   | 01 | Funcionario Geral | Realiza Cadastro    | Criar conta na aplicação |
+|   02   | 02 | Funcionario Geral | Realiza Login       | Acessar a aplicação |
+|   02   | 03 |   Administrador   | Realiza Login       | Acessar a aplicação |
+|   03   | 04 | Funcionario Geral | Pesquisar produto   | Encontrar um produto para realizar um pedido |
+|   03   | 05 | Funcionario Geral | Pesquisar produto   | Realizar consulta na BEC |
+|   04   | 06 | Funcionario Geral | Escolher produto    | Escolher produto para adicioná-lo ao pedido |
+|   05   | 07 | Funcionario Geral | Escrever descrição  | Definir uso e esclarecer possíveis dúvidas acerca do pedido |
+|   06   | 08 | Funcionario Geral | Escolher quantidade | Escolher quantidade desejada do produto | 
+|   07   | 09 | Funcionario Geral | Realizar pedido     | Solicitar a compra de um produto |
+|   08   | 10 | Funcionario Geral | Visualizar pedidos  | Acompanhar o andamento do pedido |
+|   08   | 11 |   Administrador   | Visualizar pedidos  | Gerenciar os pedidos realizados |
+|   09   | 12 |   Administrador   | Alterar status      | Gerenciar os pedidos realizados |
+|   09   | 13 |   Administrador   | Alterar status      | Especificar estágio do processo do pedido |
+|   11   | 14 |   Administrador   | Cancelar pedido     | Dar o motivo do cancelamento
+|   12   | 15 |   Administrador   | Realizar cadastros  | Cadastrar novos administradores
  
-<div align="center">
-    <img src="user_stories.png">
-</div>
 
 → [Voltar ao topo](#topo)
 
@@ -138,7 +158,7 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 <span id="tecnologias">
     <p align="center">
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,docker,nodejs,mongodb,vercel,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,docker,nodejs,mongodb,vercel,vscode,figma,aws" />
   </a>
 </p>
 </span>
