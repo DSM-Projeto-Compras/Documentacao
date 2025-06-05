@@ -14,7 +14,7 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre
-A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, o desenvolvimento do site para facilitar o trabalho do funcionário responsável pelo trabalho de compras, consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
+A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, o desenvolvimento desta aplicação ocorre para facilitar o trabalho do funcionário responsável pelo trabalho de compras. Consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
 
 >_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre funcionários da instituição_
 
@@ -23,7 +23,7 @@ Baseado em necessidades apontadas por funcionários, o usuário utilizará o sis
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
 
-:pushpin: Status do Projeto: **✔️ Concluído** 
+:pushpin: Status do Projeto: **🧵 Em desenvolvimento** 
 
 ### 🏁 Entregas de Sprints
 | Sprint | Previsão | Status | Histórico |
@@ -131,7 +131,13 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ### 🏠 Protótipo 
 <span id="prototipo">
     Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação.
-    O acesso ao protótipo pode ser feito <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1">aqui</a>
+    </br></br>
+    
+| <img src="https://skillicons.dev/icons?i=figma" /> | <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1" target="_blank"> Protótipo Web </a> |
+|:--------------------------------------------------:|:-------------:|
+| <img src="https://skillicons.dev/icons?i=figma" /> | <a href="https://www.figma.com/design/KKRDaOJgsXiG5Q4ichvzfQ/Projeto-Compras?node-id=0-1&p=f&t=hgiUnqmjhIiXskLV-0" target="_blank"> Protótipo Mobile </a>|
+
+
 
 ### 🐳 Docker
 <span id="docker">
