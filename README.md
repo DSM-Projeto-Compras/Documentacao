@@ -157,8 +157,9 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 <span id="link">
     
 > 🔗 **Links gerais** <br>
-> - Link do sistema funcional: [clique aqui para acessar](https://projeto-mvc-restful-frontend.vercel.app)
-> - Repositório do projeto: [clique aqui para acessar](https://github.com/thiago-diegoli/Projeto-MVC-RESTful)
+> - Link do sistema funcional: [clique aqui para acessar](https://front-end-five-kappa.vercel.app/pages/login)
+> - Repositório do projeto (FrontEnd): [clique aqui para acessar](https://github.com/DSM-Projeto-Compras/FrontEnd)
+> - Organização do projeto no GitHub: [clique aqui para acessar](https://github.com/DSM-Projeto-Compras)
 
 
 ## 🛠️ Tecnologias Utilizadas 
@@ -188,6 +189,6 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 → [Voltar ao topo](#topo)
 
 
-## 🪪 Licença
+## 📃 Licença
 
 The MIT License (MIT) 2024
