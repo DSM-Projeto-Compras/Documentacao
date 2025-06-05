@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 3: 03/06/2024 a 17/06/2024</h1>
+<h1 align="center">Sprint 4: 01/03/2025 a 05/06/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -8,17 +8,29 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Na última sprint o objetivo foi finalizar o sistema de status de pedidos no ambiente do diretor de serviços administrativos, permitindo sua utilização e usabilidade, atendendo os pedidos do cliente.
+Nesta sprint o objetivo foi começar a adaptar o projeto para o uso em dispositivos mobiles, definindo novos requisitos e planejando a criação de ambientes na nuvem.
 
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
 
 Os requisitos abrangidos por essa sprint são:
-- **RF 10:** Alterar status de um pedido realizado
-- **RF 11:** Escrever descrição do cancelamento de um pedido
-- **RNF 21:** Status possui 2 estados além do padrão
-- **RNF 22:** O sistema tem que estar ativo a todo o momento
+- **RF 01:** Realizar cadastro
+- **RF 02:** Realizar login 
+- **RF 03:** Rodapé 
+- **RF 04:** Requisitar produto
+- **RF 05:** Visualização do histórico de pedidos
+- **RF 07:** Visualização dos detalhes de um pedido
+- **RF 08:** Visualização da justificativa de um pedido negado
+- **RNF 01:** Linguagens JavaScript e React Native
+- **RNF 02:** Uso da biblioteca expo dev
+- **RNF 04:** Uso de Banco de Dados SQLite para dados de usuários e requisições
+- **RNF 05:** Uso da API de pesquisa da BEC
+- **RNF 06:** Criptografia da senha dos usuários
+- **RNF 07:** Segurança contra injeção de SQL
+- **RNF 08:** Sistema ativo a todo o tempo
+- **RNF 09:** Responsividade entre diferentes dispositivos móveis
+- **RNF 10:** Autenticação do usuário por SPA
 
 <div align="center">
 
@@ -31,29 +43,33 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 10 : Alterar status de um pedido realizado
+### RF 01 e RF 02: Realizar cadastro e Realizar Login
 
-Este requisito tem como objetivo criar um dado informativo para histórico e para feedback do segmento dos pedidos para os funcionários da instituição.
+Este requisito se trata do cadastro e login de usuários, apenas os funcionários gerais realizam o cadastro, como descrito no caso de uso. Ambos os usuários realizarão login, porém terão telas especificas, por exemplo:
 
-- **Funcionário diretor de serviços administrativos** pode alterar os status para manter o funcionário que realizou o pedido informado.
-- **Funcionário Geral** pode vizualizar a mudança para se informar do status de seu pedido.
+- **Funcionário geral** tem uma página com a opção de realizar pesquisas com a web service da BEC, opção de quantidade e discrição do pedido.
+- **Funcionário diretor de serviços administrativos** tem uma página com o histórico dos pedidos realizados e um filtro para realizar pesquisas especificas.
 
-### RF 11 : Escrever descrição do cancelamento de um pedido
+### RF 03 : Rodapé
 
-Este requisito se refere ao caso do funcionário diretor de serviços administrativos desejar cancelar um pedido, uma justificativa será preenchida para esclarecer possíveis dúvidas sobre o cancelamento do pedido.
+Este requisito se refere à funcionalidade de trocar de abas no mobile, permitindo ao usuário (administrador ou não) trocar entre a visualização do histórico de pedidos, novos cadastros ou sair do sistema
 
-- **Funcionário diretor de serviços administrativos** escreve em detalhes o motivo de cancelamento de um pedido.
-- **Funcionário Geral** vizualiza a justificativa e se informa do motivo do cancelamento de seu pedido.
+- **Funcionário diretor de serviços administrativos** alterna entre o histórico de pedidos, a tela de cadastro de novos usuários e sair do sistema
+- **Funcionário Geral** alterna entre o histórico de pedidos próprios, a tela de requisição de novos pedidos e sair do sistema
+
+### RF 04 : Requisitar produto
+
+Este requisito se refere à função do usuário comum de requisitar um produto para que o administrador o consiga analisar e decidir se será aceito e salvo ou não.
+
+### RF 05, RF 07 e RF 08 : Visualização do histórico de pedidos, Visualização dos detalhes de um pedido e Visualização da justificativa de um pedido negado
+
+Este requisito se refere à visualização de pedidos realizados pelo usuário e entregues ao administrador e suas variações caso o pedido seja aprovado ou negado.
+
+- **Funcionário diretor de serviços administrativos** visualiza pedidos realizados por usuários e os classifica em aprovado ou negado, inserindo uma justificativa ao usuário caso um pedido seja negado e alterando seu status
+- **Funcionário Geral** visualiza pedidos anteriormente realizados por ele e é permitido os alterar caso estejam pendentes, visualizando a mudança de status que o administrador decidir e tendo edições bloqueadas caso alguma escolha seja feita, permitindo-o visualizar os detalhes do pedido.
 
 </div>
 
-<details>
-   <summary>Diagrama de classes</summary>
-   <h4>Diagrama de classes mapeado do frontend</h4>
-    
-   ![image](https://github.com/paulovictorio/Documentacao_projetoCompras/assets/127141305/1ff24ea3-3fcc-4c4e-807f-66218933f2e0)
-    
-</details>
 
 → [Voltar ao topo](#topo)
     
