@@ -14,7 +14,7 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre
-A partir de pedidos do administrativo da Faculdade Técnica de Votorantim, o desenvolvimento desta aplicação ocorre para facilitar o trabalho do funcionário responsável pelo trabalho de compras. Consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
+A partir de pedidos do administrativo da Faculdade de Tecnologia de Votorantim, o desenvolvimento desta aplicação ocorre para facilitar o trabalho do funcionário responsável pelo trabalho de compras. Consiste em um sistema de 2 frentes: a do **funcionário geral**, que pode gerar um pedido para um produto e acompanhar o andamento do pedido e o **funcionário de compras**, que visualiza pedidos realizados e os processa, mantendo o **funcionário geral** informado.
 
 >_Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre funcionários da instituição_
 
