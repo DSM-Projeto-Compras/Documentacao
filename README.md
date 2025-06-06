@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 4: 19/05/2025 a 05/06/2025</h1>
+<h1 align="center">Sprint 4: 01/04/2025 a 18/05/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -8,29 +8,17 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Nesta sprint o objetivo foi começar a adaptar o projeto para o uso em dispositivos mobiles, definindo novos requisitos e planejando a criação de ambientes na nuvem.
+Nesta sprint o objetivo foi começar a adaptar o projeto para o uso em dispositivos mobiles, planejando sua construção completa através do protótipo do Figma.
+
+O protótipo está disponível através do seguinte link:
+
+| <img src="https://skillicons.dev/icons?i=figma" /> | <a href="https://www.figma.com/design/KKRDaOJgsXiG5Q4ichvzfQ/Projeto-Compras?node-id=0-1&p=f&t=hgiUnqmjhIiXskLV-0" target="_blank"> Protótipo Mobile </a>|
+|:--------------------------------------------------:|:-------------:|
+
 
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
-
-Os requisitos abrangidos por essa sprint são:
-- **RF 01:** Realizar cadastro
-- **RF 02:** Realizar login 
-- **RF 03:** Rodapé 
-- **RF 04:** Requisitar produto
-- **RF 05:** Visualização do histórico de pedidos
-- **RF 07:** Visualização dos detalhes de um pedido
-- **RF 08:** Visualização da justificativa de um pedido negado
-- **RNF 01:** Linguagens JavaScript e React Native
-- **RNF 02:** Uso da biblioteca expo dev
-- **RNF 04:** Uso de Banco de Dados SQLite para dados de usuários e requisições
-- **RNF 05:** Uso da API de pesquisa da BEC
-- **RNF 06:** Criptografia da senha dos usuários
-- **RNF 07:** Segurança contra injeção de SQL
-- **RNF 08:** Sistema ativo a todo o tempo
-- **RNF 09:** Responsividade entre diferentes dispositivos móveis
-- **RNF 10:** Autenticação do usuário por SPA
 
 <div align="center">
 
