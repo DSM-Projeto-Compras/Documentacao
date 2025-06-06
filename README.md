@@ -93,7 +93,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 |   ID  |             Título            |
 |:-----:|:-----------------------------:|
 | RNF01 | Linguagens JavaScript e React |
-| RNF02 | Uso da biblioteca expo dev para o mobile |
+| RNF02 | Uso da bibliotecas expo dev e react native paper para o mobile |
 | RNF03 | Uso do framework nextjs para o web | 
 | RNF04 | Uso de Banco de Dados SQLite para dados de usuários e requisições |
 | RNF05 | Uso da API de pesquisa da BEC |
