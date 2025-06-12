@@ -125,6 +125,28 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 |   12   | 15 |   Administrador   | Realizar cadastros  | Cadastrar novos administradores
  
 
+# Computação em Nuvem ☁️
+## Requisitos do Projeto:
+|  ID  |                Requisito                  |      Status     |                                Observação                               |
+|:----:|:-----------------------------------------:|:--------------:|:------------------------------------------------------------------------:|
+|  01  | Persistência das informações em um BD SQL | 🟨 Parcial     | Instância RDS gerada na nuvem, mas não vinculada                         |
+|  02  | Deploy do Back e Front na AWS             | 🟩 OK          | |
+| 02.3 | Integração docker front e back na AWS     | 🟩 OK          | Docker padrão do projeto vinculado, mas não adaptado                     |
+|  03  | Integração Back, Front e BDs na AWS       | 🟨 Parcial     | Back e Banco de dados mongo integrados                                   |
+|  04  | Monitoramento e observabilidade do Back   | 🟩 OK          | |
+|  05  | Feature para upload de objetos            | 🟥 Pendente    | |
+|  06  | Armazenamento de objeto no S3             | 🟨 Parcial     | Buckets criados e funcionais, mas não integrados ao projeto              |
+|  07  | Utilizar API Gateway                      | 🟥 Pendente    | |
+|  08  | Documentação da implementação             | 🟥 Pendente    | |
+|  09  | Estimativa de custos para a arquitetura   | 🟥 Pendente    | |
+|  10  | Gestão dos custos                         | 🟨 Parcial     | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
+|  11  | Gerenciamento de IAM                      | 🟨 Parcial     | Perfis criados mas não implementados                                     |
+|  12  | Criação do cenário TO-BE de policies      | 🟥 Pendente    | |
+
+
+## Desenho da arquitetura:
+
+
 → [Voltar ao topo](#topo)
 
     
