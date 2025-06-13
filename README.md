@@ -136,12 +136,10 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 |  04  | Monitoramento e observabilidade do Back   | 🟩 OK          | |
 |  05  | Feature para upload de objetos            | 🟥 Pendente    | |
 |  06  | Armazenamento de objeto no S3             | 🟨 Parcial     | Buckets criados e funcionais, mas não integrados ao projeto              |
-|  07  | Utilizar API Gateway                      | 🟥 Pendente    | |
-|  08  | Documentação da implementação             | 🟥 Pendente    | |
-|  09  | Estimativa de custos para a arquitetura   | 🟥 Pendente    | |
-|  10  | Gestão dos custos                         | 🟨 Parcial     | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
-|  11  | Gerenciamento de IAM                      | 🟨 Parcial     | Perfis criados mas não implementados                                     |
-|  12  | Criação do cenário TO-BE de policies      | 🟥 Pendente    | |
+|  07  | Documentação da implementação             | 🟥 Pendente    | |
+|  08  | Gestão dos custos                         | 🟨 Parcial     | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
+|  09  | Gerenciamento de IAM                      | 🟨 Parcial     | Perfis criados mas não implementados                                     |
+|  10  | Criação do cenário TO-BE de policies      | 🟥 Pendente    | |
 
 
 ## Desenho da arquitetura:
