@@ -129,17 +129,17 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ## Requisitos do Projeto:
 |  ID  |                Requisito                  |      Status     |                                Observação                               |
 |:----:|:-----------------------------------------:|:--------------:|:------------------------------------------------------------------------:|
-|  01  | Persistência das informações em um BD SQL | 🟨 Parcial     | Instância RDS gerada na nuvem, mas não vinculada                         |
+|  01  | Persistência das informações em um BD SQL | 🟩 OK          | |
 |  02  | Deploy do Back e Front na AWS             | 🟩 OK          | |
 | 02.3 | Integração docker front e back na AWS     | 🟩 OK          | Docker padrão do projeto vinculado, mas não adaptado                     |
-|  03  | Integração Back, Front e BDs na AWS       | 🟨 Parcial     | Back e Banco de dados mongo integrados                                   |
+|  03  | Integração Back, Front e BDs na AWS       | 🟩 OK          | |
 |  04  | Monitoramento e observabilidade do Back   | 🟩 OK          | |
-|  05  | Feature para upload de objetos            | 🟥 Pendente    | |
-|  06  | Armazenamento de objeto no S3             | 🟨 Parcial     | Buckets criados e funcionais, mas não integrados ao projeto              |
+|  05  | Feature para upload de objetos            | 🟩 OK          | |
+|  06  | Armazenamento de objeto no S3             | 🟩 OK          | |
 |  07  | Documentação da implementação             | 🟥 Pendente    | |
-|  08  | Gestão dos custos                         | 🟨 Parcial     | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
-|  09  | Gerenciamento de IAM                      | 🟨 Parcial     | Perfis criados mas não implementados                                     |
-|  10  | Criação do cenário TO-BE de policies      | 🟥 Pendente    | |
+|  08  | Gestão dos custos                         | 🟩 OK          | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
+|  09  | Gerenciamento de IAM                      | 🟩 OK          | |
+|  10  | Criação do cenário TO-BE de policies      | 🟩 OK          | Cenário de políticas adaptada ao uso restrido do AWS Lab                 |
 
 
 ## Desenho da arquitetura:
