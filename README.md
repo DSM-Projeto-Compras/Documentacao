@@ -113,7 +113,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | RNF10 | Autenticação do usuário por SPA |
 | RNF11 | Projeto disponível na nuvem |
 
-## User Stories
+### User Stories
 |  Épico | ID |       Ator        |        Ação         | Motivo |
 |:------:|:--:|:-----------------:|:-------------------:|:------:|
 |   01   | 01 | Funcionario Geral | Realiza Cadastro    | Criar conta na aplicação |
@@ -134,8 +134,8 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  
 <span id="cloud">
 
-# Computação em Nuvem ☁️
-## Requisitos do Projeto:
+## ☁️ Computação em Nuvem 
+### Requisitos do Projeto:
 |  ID  |                Requisito                  |      Status     |                                Observação                               |
 |:----:|:-----------------------------------------:|:--------------:|:------------------------------------------------------------------------:|
 |  01  | Persistência das informações em um BD SQL | 🟩 OK          | |
@@ -151,9 +151,17 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 |  10  | Criação do cenário TO-BE de policies      | 🟩 OK          | Cenário de políticas adaptada ao uso restrido do AWS Lab                 |
 
 
-## Desenho da arquitetura:
+### Desenho da arquitetura:
 <img src="/projetocompras-aws.drawio.png" alt="Arquitetura nuvem"/>
 
+### 🐳 Docker
+<span id="docker">
+    Este projeto também possui contêineres e imagens docker, permitindo replicar o software tal como planejado. Para isso, se encontram em cada repositório Frontend e Backend um arquivo Dockerfile, que contém instruções gerais de como inicializar o projeto, e um arquivo docker-compose, que possui uma forma automatizada de inicializar o projeto.
+    Para gerar e iniciar uma imagem e container docker, basta inserir em um terminal aberto para cada repositório:
+    ```bash
+    docker-compose up --build
+    ``` 
+    
 → [Voltar ao topo](#topo)
 
     
@@ -166,17 +174,6 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 | <img src="https://skillicons.dev/icons?i=figma" /> | <a href="https://www.figma.com/proto/aoRbpLGfGNXeTD0hLtrsDr/Projeto-Integrador?node-id=0-1&t=P5UiG1z4EAXU1bLR-1" target="_blank"> Protótipo Web </a> |
 |:--------------------------------------------------:|:-------------:|
 | <img src="https://skillicons.dev/icons?i=figma" /> | <a href="https://www.figma.com/design/KKRDaOJgsXiG5Q4ichvzfQ/Projeto-Compras?node-id=0-1&p=f&t=hgiUnqmjhIiXskLV-0" target="_blank"> Protótipo Mobile </a>|
-
-
-
-### 🐳 Docker
-<span id="docker">
-    Este projeto também possui contêineres e imagens docker, permitindo replicar o software tal como planejado. Para isso, se encontram em cada repositório Frontend e Backend um arquivo Dockerfile, que contém instruções gerais de como inicializar o projeto, e um arquivo docker-compose, que possui uma forma automatizada de inicializar o projeto.
-    Para gerar e iniciar uma imagem e container docker, basta inserir em um terminal aberto para cada repositório:
-    
-```bash
-docker-compose up --build
-``` 
     
 
 ### 📄 Documentação 
