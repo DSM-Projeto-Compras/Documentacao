@@ -1,12 +1,16 @@
 # Projeto de Compras 
 <br id="topo">
+<div align="center">
+    <img src="/fatec-votorantim.png" alt="Logo fatec">
+</div>
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlogs">Backlogs & User Stories</a>  |
     <a href="#prototipo">Protótipo & Documentação</a>  | 
+    <a href="#cloud">Computação em nuvem</a> |
     <a href="#link">Links Uteis</a>  |
     <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>  |
+    <a href="#equipe">Equipe</a>  
      
     
 </p>
@@ -25,12 +29,16 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 
 :pushpin: Status do Projeto: **🧵 Em desenvolvimento** 
 
-### 🏁 Entregas de Sprints
+### 🏁 Entregas de Sprints (Web)
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | 20/05/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-01/README.md)|
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
+
+### 🏁 Entregas de Sprints (Mobile)
+| Sprint | Previsão | Status | Histórico |
+|:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 04 | 18/05/2025 |  ✔️Concluído    |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-04/README.md)|
 | 05 | 05/06/2025 |  ✔️Concluído    |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-05/README.md)|
 | 06 | 17/06/2025 |   ✖Pendente     | Em andamento |
@@ -124,6 +132,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 |   11   | 14 |   Administrador   | Cancelar pedido     | Dar o motivo do cancelamento
 |   12   | 15 |   Administrador   | Realizar cadastros  | Cadastrar novos administradores
  
+<span id="cloud">
 
 # Computação em Nuvem ☁️
 ## Requisitos do Projeto:
@@ -131,12 +140,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 |:----:|:-----------------------------------------:|:--------------:|:------------------------------------------------------------------------:|
 |  01  | Persistência das informações em um BD SQL | 🟩 OK          | |
 |  02  | Deploy do Back e Front na AWS             | 🟩 OK          | |
-| 02.3 | Integração docker front e back na AWS     | 🟩 OK          | Docker padrão do projeto vinculado, mas não adaptado                     |
+| 02.3 | Integração docker front e back na AWS     | 🟩 OK          | |
 |  03  | Integração Back, Front e BDs na AWS       | 🟩 OK          | |
 |  04  | Monitoramento e observabilidade do Back   | 🟩 OK          | |
 |  05  | Feature para upload de objetos            | 🟩 OK          | |
 |  06  | Armazenamento de objeto no S3             | 🟩 OK          | |
-|  07  | Documentação da implementação             | 🟥 Pendente    | |
+|  07  | Documentação da implementação             | 🟩 OK          | |
 |  08  | Gestão dos custos                         | 🟩 OK          | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
 |  09  | Gerenciamento de IAM                      | 🟩 OK          | |
 |  10  | Criação do cenário TO-BE de policies      | 🟩 OK          | Cenário de políticas adaptada ao uso restrido do AWS Lab                 |
