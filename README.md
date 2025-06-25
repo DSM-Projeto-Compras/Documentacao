@@ -143,7 +143,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 ## Desenho da arquitetura:
-
+<img src="/projetocompras-aws.drawio.png" alt="Arquitetura nuvem"/>
 
 → [Voltar ao topo](#topo)
 
