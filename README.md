@@ -44,7 +44,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 06 | 17/06/2025 |   ✖Pendente     | Em andamento |
 
 ### :clapper: Apresentação Final
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 <details>
    <summary>Diretor de Serviços Administrativos</summary>
     <div align="center">
@@ -158,9 +158,10 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <span id="docker">
     Este projeto também possui contêineres e imagens docker, permitindo replicar o software tal como planejado. Para isso, se encontram em cada repositório Frontend e Backend um arquivo Dockerfile, que contém instruções gerais de como inicializar o projeto, e um arquivo docker-compose, que possui uma forma automatizada de inicializar o projeto.
     Para gerar e iniciar uma imagem e container docker, basta inserir em um terminal aberto para cada repositório:
-    ```bash
+    
+```bash
     docker-compose up --build
-    ``` 
+``` 
     
 → [Voltar ao topo](#topo)
 
