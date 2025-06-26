@@ -46,6 +46,8 @@ Este requisito se refere à visualização de pedidos realizados pelo usuário e
 
 ### Analise de segurança
 
+[Analise de Segurança](AnalisedeSegurancaPI(1).xlsx)
+
 
 
 </div>
