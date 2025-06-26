@@ -107,7 +107,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 | RNF04 | Uso de Banco de Dados SQLite para dados de usuários e requisições |
 | RNF05 | Uso da API de pesquisa da BEC |
 | RNF06 | Criptografia da senha dos usuários | 
-| RNF07 | Segurança contra injeção de SQL |
+| RNF07 | Analise de segurança |
 | RNF08 | Sistema ativo a todo o tempo |
 | RNF09 | Responsividade entre diferentes dispositivos móveis |
 | RNF10 | Autenticação do usuário por SPA |
