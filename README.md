@@ -219,4 +219,4 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 
 ## 📃 Licença
 
-The MIT License (MIT) 2024
+The MIT License (MIT) 2025
