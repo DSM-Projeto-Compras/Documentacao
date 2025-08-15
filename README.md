@@ -67,36 +67,22 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 | ID |      Título      |                    Descrição                         |            Exceções            |
 |:--:|:-----------------:|:---------------------------------------------------:|:------------------------------:|
-| RF01 | Realizar Cadastro | Cadastrar nome, email e senha | Alerta para email já existente |
-| | | Retornar à página inicial por botão | Alerta para erro no cadastro |
-| RF02 | Realizar Login | Inserir email e senha | Mensagem para usuário ou senha incorretos |
-| | | Entrar no sistema por botão | Alerta para erro no login |
-| | | Marcar opção "lembrar senha" | |
-| | | Acessar botão "ir para cadastro" | |
+| RF01 | Realizar Cadastro | Funcionários cadastram nome, email e senha | Alerta para email já existente |
+| | | | Alerta para erro no cadastro |
+| RF02 | Realizar Login | Usuários logam por email e senha | Mensagem para usuário ou senha incorretos |
+| | | Opção de "Lembrar Senha" e "Cadastrar" disponível | Alerta para erro no login |
 | RF03 | Rodapé (mobile) | Acessar página de requisição, histórico e sair do sistema (usuário) | |
 | | | Acessar página de criar um novo admin, histórico e sair do sistema (admin) | |
-| RF04 | Requisitar produto | Pesquisar produto por caixa de texto| Alerta para erro na requisição |
-| | | Pesquisar categoria por caixa de texto | |
-| | | Inserir quantidade e descrição | | 
-| | | Enviar requisição por botão | |
-| RF05 | Visualização do histórico de pedidos | Visualizar dados do pedido | |
-| | | Visualizar status do produto | |
-| RF06 | Editar um pedido pendente (usuário) | Inserir quantidade, categoria, tipo e descrição | Alerta para erro na exclusão | 
-| | | Excluir pedido | Alerta para erro na confirmação da edição |
-| | | Confirmação da exclusão | |
-| | | Confirmação da edição | |
-| RF07 | Visualização dos detalhes de um pedido | Ver detalhes por botão | Alerta para erro na visualização dos detalhes |
-| | | Voltar ao histórico por botão | |
-| RF08 | Visualização da justificativa de um pedido negado | Ver justificativa por botão | Alerta para erro na visualização da justificativa |
-| | | Voltar ao histórico por botão | Alerta para erro no envio da justificativa |
-| | | Confirmar justificativa (administrador) | | 
-| | | Descrever justificativa (administrador) em caixa de texto | |
-| RF09 | Cadastro de novo usuário administrador | Inserir nome, email e senha | Alerta para erro ao criar conta |
-| | | Criar conta por botão | Alerta para email já existente |
-| RF10 | Lista de usuários administradores | Inserir dados de nome e email | Alerta para erro ao excluir usuário |
-| | | Excluir usuário por botão| |
-| RF11 | Alteração do status de um pedido (administrador) | Selecionar opções de "aprovar/negar" | Alerta para erro ao alterar status |
-| | | Alterar visual do status para negado (vermelho) ou aprovado (verde) | |
+| RF04 | Requisitar produto | Informar produto, categoria, quantidade e descrição | Alerta para erro na requisição |
+| RF05 | Visualização do histórico de pedidos | Visualizar dados e status do pedido | |
+| RF06 | Editar um pedido pendente (usuário) | Mudar ou excluir quantidade, categoria, tipo e descrição | Alerta para erro na confirmação da edição | 
+| RF07 | Visualização dos detalhes | Ver detalhes de um pedido | Alerta para erro na visualização dos detalhes |
+| RF08 | Visualização da justificativa | Ver justificativa de um pedido negado | Alerta para erro na visualização da justificativa |
+| RF09 | Edição da justificativa (administrador) | Descrever justificativa | Alerta para erro no envio da justificativa |
+| RF10 | Cadastro de novo usuário administrador | Inserir nome, email e senha | Alerta para erro ao criar conta |
+| | | | Alerta para email já existente |
+| RF11 | Listagem de usuários administradores | Visualizar ou excluir nome e email de admins cadastrados | Alerta para erro ao excluir usuário |
+| RF12 | Alteração do status de um pedido (administrador) | Selecionar opções de "aprovar/negar" | Alerta para erro ao alterar status |
 
  ### Requisitos Não Funcionais
 |   ID  |             Título            |
