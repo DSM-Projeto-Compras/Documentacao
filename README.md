@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 6: 06/06/2025 a 25/06/2025</h1>
+<h1 align="center">Sprint 7: 12/09/2025 a 26/09/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -15,21 +15,9 @@ Nesta sprint o objetivo foi finalizar o processo, entregando a integração comp
 ## :dart: Objetivos da Sprint
 
 Os requisitos abrangidos por essa sprint são:
-- **RF 05:** Visualização do histórico de pedidos
-- **RF 07:** Visualização dos detalhes de um pedido
-- **RF 08:** Visualização da justificativa de um pedido negado
-- **RNF 01:** Linguagens JavaScript e React Native
-- **RNF 02:** Uso da biblioteca expo dev
-- **RNF 06:** Criptografia da senha dos usuários
-- **RNF 07:** Analise de segurança
-- **RNF 08:** Sistema ativo a todo o tempo
-- **RNF 09:** Responsividade entre diferentes dispositivos móveis
-- **RNF 10:** Autenticação do usuário por SPA
-
-<div align="center">
-
-![demo](./demo.gif)
-</div>
+- **RF 02:** Usuários logam por email e senha
+- **RF 10:** Cadastro de novo usuário administrador
+- **RF 11:** Listagem de usuários administradores
 
 <span id="entregas">
 
@@ -37,14 +25,12 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 05, RF 07 e RF 08 : Visualização do histórico de pedidos, Visualização dos detalhes de um pedido e Visualização da justificativa de um pedido negado
+### RF 02, RF10, RF 11 : Realizar recuperação de senha via web, Cadastro de usuário administrador web, Listagem de usuários administradores web
 
-Este requisito se refere à visualização de pedidos realizados pelo usuário e entregues ao administrador e suas variações caso o pedido seja aprovado ou negado.
+Esses requisitos se referem a atualização da aplicação web para espelhar o desenvolvimento mobile.
 
-- **Funcionário diretor de serviços administrativos** visualiza pedidos realizados por usuários e os classifica em aprovado ou negado, inserindo uma justificativa ao usuário caso um pedido seja negado e alterando seu status
-- **Funcionário Geral** visualiza pedidos anteriormente realizados por ele e é permitido os alterar caso estejam pendentes, visualizando a mudança de status que o administrador decidir e tendo edições bloqueadas caso alguma escolha seja feita, permitindo-o visualizar os detalhes do pedido.
-
-### [Analise de segurança](AnalisedeSegurancaPI.csv)
+- **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados e cadastra novos funcionários
+- **Funcionário Geral** altera a senha.
 
 
 
