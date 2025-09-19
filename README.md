@@ -75,7 +75,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 | RF01 | Realizar Cadastro | Funcionários cadastram nome, email e senha | Alerta para email já existente |
 | | | | Alerta para erro no cadastro |
 | RF02 | Realizar Login | Usuários logam por email e senha | Mensagem para usuário ou senha incorretos |
-| | | Opção de "Lembrar Senha" e "Cadastrar" disponível | Alerta para erro no login |
+| | | Opção de "Lembrar Senha", "Mudar a senha" e "Cadastrar" disponível | Alerta para erro no login |
 | RF03 | Rodapé (mobile) | Acessar página de requisição, histórico e sair do sistema (usuário) | |
 | | | Acessar página de criar um novo admin, histórico e sair do sistema (admin) | |
 | RF04 | Requisitar produto | Informar produto, categoria, quantidade e descrição | Alerta para erro na requisição |
