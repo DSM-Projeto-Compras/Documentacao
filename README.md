@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 7: 12/09/2025 a 26/09/2025</h1>
+<h1 align="center">Sprint 7: 26/09/2025 a 10/10/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -8,7 +8,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Nesta sprint o objetivo foi finalizar o processo, entregando a integração completa do back-end e analise de segurança.
+Nesta sprint o objetivo foi finalizar itens deixados da primeira sprint e iniciar a produção de novas features
 
 <span id="objetivos">
 
