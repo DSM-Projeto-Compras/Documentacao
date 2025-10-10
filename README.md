@@ -47,6 +47,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 07 | 26/09/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-07/README.md)|
+| 08 | 10/10/2025 |  🛠Em Produção  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-08/README.md)|
 
 ### :clapper: Apresentação Final
 Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
