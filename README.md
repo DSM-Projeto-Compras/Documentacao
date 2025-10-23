@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 7: 26/09/2025 a 10/10/2025</h1>
+<h1 align="center">Sprint 8: 03/10/2025 a 17/10/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
