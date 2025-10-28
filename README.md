@@ -8,7 +8,7 @@
     <a href="#links">Links úteis</a>
 </p>
 
-Nesta sprint o objetivo foi finalizar itens deixados da primeira sprint e iniciar a produção de novas features
+Nesta sprint o objetivo foi continuar o desenvolvimento do site para o deixar operacional e pronto para futuras atualizações 
 
 <span id="objetivos">
 
@@ -31,11 +31,6 @@ Esses requisitos se referem a atualização da aplicação web para espelhar o d
 
 - **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados e cadastra novos funcionários
 - **Funcionário Geral** altera a senha.
-
-
-
-
-
 
 
 </div>
