@@ -5,6 +5,7 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#problemas">Desafios Encontrados</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
@@ -18,6 +19,7 @@ Os requisitos abrangidos por essa sprint são:
 - **RF 02:** Usuários logam por email e senha
 - **RF 10:** Cadastro de novo usuário administrador
 - **RF 11:** Listagem de usuários administradores
+- **RNF 04:** Uso de Banco de Dados SQL para dados de usuários e requisições
 
 <span id="entregas">
 
@@ -25,17 +27,17 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 02, RF10, RF 11 : Realizar recuperação de senha via web, Cadastro de usuário administrador web, Listagem de usuários administradores web
+### RNF 4 : Uso de Banco de Dados SQL para dados de usuários e requisições
 
-Esses requisitos se referem a atualização da aplicação web para espelhar o desenvolvimento mobile.
+Esse requisito se refere ao porte do banco de dados não relacional para um banco relacional que se encaixa melhor no projeto.
 
-- **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados e cadastra novos funcionários
-- **Funcionário Geral** altera a senha.
-
-
+- **Funcionário diretor de serviços administrativos** visualiza pedidos realizados
+- **Funcionário Geral** se cadastra, faz login, realiza pedidos e visualiza pedidos.
 
 
+## :heavy_check_mark: Desafios Encontrados
 
+- **RF 02, RF 10, RF 11** : Trabalhar portando funções do mobile para a versão desatualizada trouxe a tona problemas arquiteturais e de design, dificuldade de ambientação com tecnologias que foram deixadas de lado para o desenvolvimento mobile que trouxeram lentidão para o desenvolvimento do back-end.
 
 
 </div>
