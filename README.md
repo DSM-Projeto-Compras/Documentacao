@@ -34,13 +34,12 @@ Esse requisito se refere ao porte do banco de dados não relacional para um banc
 - **Funcionário diretor de serviços administrativos** visualiza pedidos realizados
 - **Funcionário Geral** se cadastra, faz login, realiza pedidos e visualiza pedidos.
 
+</div>
 
 ## :toolbox: Desafios Encontrados
 
 - **RF 02, RF 10, RF 11** : Trabalhar portando funções do mobile para a versão desatualizada trouxe a tona problemas arquiteturais e de design, dificuldade de ambientação com tecnologias que foram deixadas de lado para o desenvolvimento mobile que trouxeram lentidão para o desenvolvimento do back-end.
 
-
-</div>
 
 
 → [Voltar ao topo](#topo)
