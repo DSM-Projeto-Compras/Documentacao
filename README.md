@@ -106,6 +106,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 | RNF09 | Responsividade entre diferentes dispositivos móveis |
 | RNF10 | Autenticação do usuário por SPA |
 | RNF11 | Projeto disponível na nuvem |
+| RNF12 | Cobertura e documentação de testes |
 
 ### User Stories
 |  Épico | ID |       Ator        |        Ação         | Motivo |
