@@ -5,10 +5,11 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#problemas">Desafios Encontrados</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
-Nesta sprint o objetivo foi continuar o desenvolvimento do site para o deixar operacional e pronto para futuras atualizações 
+Nesta sprint o objetivo foi continuar o desenvolvimento do site para o deixar operacional.
 
 <span id="objetivos">
 
@@ -29,12 +30,14 @@ Os requisitos abrangidos por essa sprint são:
 
 Esses requisitos se referem a atualização da aplicação web para espelhar o desenvolvimento mobile.
 
-- **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados e cadastra novos funcionários
-- **Funcionário Geral** altera a senha.
-
+- **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados e cadastra novos funcionário (front-end entregue)
+- **Funcionário Geral** altera a senha. (front-end entregue)
 
 </div>
 
+## :toolbox: Desafios Encontrados
+
+- **RF 02, RF 10, RF 11** : Adaptação ao código do back-end foi lenta por conta da troca de desenvolvedores, o aprendizado do funcionamento do código já escrito e refatoração se mostraram como o maior desafio nessa fase do desenvolvimento
 
 → [Voltar ao topo](#topo)
     
