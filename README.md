@@ -1,4 +1,4 @@
-# Projeto de Compras 
+# Gerenciador de Pedidos de Compras 
 <br id="topo">
 <div align="center">
     <img src="/fatec-votorantim.png" alt="Logo fatec">
