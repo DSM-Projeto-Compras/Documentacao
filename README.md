@@ -183,6 +183,7 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 > - Link do sistema funcional: [clique aqui para acessar](https://front-end-five-kappa.vercel.app/pages/login)
 > - Repositório do projeto (FrontEnd): [clique aqui para acessar](https://github.com/DSM-Projeto-Compras/FrontEnd)
 > - Organização do projeto no GitHub: [clique aqui para acessar](https://github.com/DSM-Projeto-Compras)
+> - Documentação do planejamento de teste e teste de caixa preta: [clique aqui para acessar](https://github.com/Desenvolvimento-de-Software-Multiplataforma)
 
 
 ## 🛠️ Tecnologias Utilizadas 
