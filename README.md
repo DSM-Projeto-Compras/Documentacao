@@ -193,6 +193,19 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 </p>
 </span>
 
+![npm](https://img.shields.io/badge/npm-v11.3.0-red?logo=npm)
+![express](https://img.shields.io/badge/express-v4.21.0-darkgreen?logo=express)
+![prisma](https://img.shields.io/badge/prisma-v6.16.2-purple?logo=prisma)
+![Jest](https://img.shields.io/badge/jest-v29.7.0-green?logo=jest)
+![docker](https://img.shields.io/badge/docker-v28.3.0-blue?logo=docker)
+![react](https://img.shields.io/badge/react-v18.2.0-blue?logo=react)
+![NextJS](https://img.shields.io/badge/nextjs-v15.0.1-white?logo=nextdotjs)
+
+- **Visualização de dados em mapa de calor:** HotJar 1.0
+- **Cliente HTTP:** Axios 1.7
+- **Criação de formulários:** Formik 2.4
+- **Validação de formulários:** Yup 1.4
+- **Estilização:** TailwindCSS 3.4.14
 
 ## :busts_in_silhouette: Equipe
 
