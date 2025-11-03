@@ -39,6 +39,7 @@ Esse requisito se refere ao porte do banco de dados não relacional para um banc
 ## 📑 Diário e Desafios
 
 - **RF 02, RF 10, RF 11** : Trabalhar portando funções do mobile para a versão desatualizada trouxe a tona problemas arquiteturais e de design, dificuldade de ambientação com tecnologias que foram deixadas de lado para o desenvolvimento mobile que trouxeram lentidão para o desenvolvimento do back-end.
+- **RNF 4** : A necessidade de tornar o banco de dados em um sistema relacional foi levantada por se encaixar mais no projeto, assim a equipe de desenvolvimento ficou dividida entre o banco de dados e o porte das funções exclusivas para o mobile, desacelerando a atualização do sistema.
 
 
 
