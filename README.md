@@ -49,7 +49,9 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 07 | 26/09/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-07/README.md)|
 | 08 | 03/10/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-08/README.md)|
 | 09 | 17/10/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-09/README.md)|
-| 10 | 31/10/2025 |  🛠Em Produção |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-10/README.md)|
+| 10 | 31/10/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-10/README.md)|
+| 11 | 14/10/2025 |  🛠Em Produção |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-11/README.md)|
+
 
 ### :clapper: Apresentação Final
 Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
