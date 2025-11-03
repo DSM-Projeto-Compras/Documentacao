@@ -176,6 +176,8 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. 
 Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
 E [Documentação ihc](ihc_compras.pdf). <br>
+A documentação de testes foi feita para detalhar o planejamento de testes e a realização dos testes de caixa preta.
+Ela pode ser acessada pelo link [Documentação de Testes e Testes de Caixa Preta](Documentação_de_Testes_e_Testes_de_Caixa_Preta.pdf)
 
 <span id="link">
     
@@ -183,7 +185,6 @@ E [Documentação ihc](ihc_compras.pdf). <br>
 > - Link do sistema funcional: [clique aqui para acessar](https://front-end-five-kappa.vercel.app/pages/login)
 > - Repositório do projeto (FrontEnd): [clique aqui para acessar](https://github.com/DSM-Projeto-Compras/FrontEnd)
 > - Organização do projeto no GitHub: [clique aqui para acessar](https://github.com/DSM-Projeto-Compras)
-> - Documentação do planejamento de teste e teste de caixa preta: [clique aqui para acessar](https://github.com/Desenvolvimento-de-Software-Multiplataforma)
 
 
 ## 🛠️ Tecnologias Utilizadas 
