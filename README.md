@@ -5,7 +5,8 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
+    <a href="#links">Links úteis</a> 
 </p>
 
 Nesta sprint o objetivo foi atualizar o site para o mesmo nível da aplicação mobile, realizar o planejamento de testes e os testes de caixa preta
@@ -34,11 +35,11 @@ Esses requisitos se referem a atualização da aplicação web para espelhar o d
 - **Funcionário Geral** altera a senha.
 - **Testes de Caixa-Preta** foram realizados em todos os inputs encontrados na aplicação
 
-
-
-
 </div>
 
+## :bookmark_tabs: Diário e Desafios
+
+- **RF 02, RF 10, RF 11, RNF 12** : Durante a atualização do sistema web, atualizações na implementação da pesquisa por itens na BEC foi removida do front-end web e mobile e passada para o back-end, aplicando o conceito de um sistema S.O.L.I.D, porém desviando atenção da equipe de desenvolvimento, de qualquer forma, a atualização do sistema WEB foi finalizada e a documentação de testes junto dos testes de caixa preta foram concluídos. A nova feature da troca de senha de administradores já entrou em produção antes do início da próxima sprint.
 
 → [Voltar ao topo](#topo)
     
