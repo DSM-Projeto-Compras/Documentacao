@@ -5,7 +5,7 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#problemas">Desafios Encontrados</a> &nbsp |&nbsp &nbsp
+    <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
@@ -36,7 +36,7 @@ Esse requisito se refere ao porte do banco de dados não relacional para um banc
 
 </div>
 
-## :toolbox: Desafios Encontrados
+## 📑 Diário e Desafios
 
 - **RF 02, RF 10, RF 11** : Trabalhar portando funções do mobile para a versão desatualizada trouxe a tona problemas arquiteturais e de design, dificuldade de ambientação com tecnologias que foram deixadas de lado para o desenvolvimento mobile que trouxeram lentidão para o desenvolvimento do back-end.
 
