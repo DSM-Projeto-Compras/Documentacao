@@ -36,7 +36,7 @@ Esses requisitos se referem a atualização da aplicação web para espelhar o d
 
 </div>
 
-## 📑: Diário e Desafios
+## 📑 Diário e Desafios
 
 - **RF 02, RF 10, RF 11, RNF 12** : Desenvolvimento do back-end foi fragmentado em entregas mais diretas de handlers e rotas, o processo foi acelerado e dividido entre multiplos desenvolvedores. o plano de teste começou a ser desenvolvido, porém o back-end ficou em primeiro lugar, não houveram entregas significativas de planejamento de testes.
 
