@@ -19,7 +19,7 @@ Os requisitos abrangidos por essa sprint são:
 - **RF 02:** Usuários logam por email e senha
 - **RF 10:** Cadastro de novo usuário administrador
 - **RF 11:** Listagem de usuários administradores
-- **RNF 12** Cobertura e documentação de testes
+- **RNF 12:** Cobertura e documentação de testes
 
 <span id="entregas">
 
