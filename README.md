@@ -5,7 +5,7 @@
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#problemas">Desafios Encontrados</a> &nbsp |&nbsp &nbsp
+    <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
     <a href="#links">Links úteis</a>
 </p>
 
@@ -35,7 +35,7 @@ Esses requisitos se referem a atualização da aplicação web para espelhar o d
 
 </div>
 
-## :toolbox: Desafios Encontrados
+## 📑 Diário e Desafios
 
 - **RF 02, RF 10, RF 11** : Adaptação ao código do back-end foi lenta por conta da troca de desenvolvedores, o aprendizado do funcionamento do código já escrito e refatoração se mostraram como o maior desafio nessa fase do desenvolvimento
 
