@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 10: 17/10/2025 a 31/10/2025</h1>
+<h1 align="center">Sprint 11: 31/10/2025 a 14/11/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -9,8 +9,7 @@
     <a href="#links">Links úteis</a> 
 </p>
 
-Nesta sprint o objetivo foi atualizar o site para o mesmo nível da aplicação mobile, realizar o planejamento de testes e os testes de caixa preta
-
+Nesta sprint o objetivo foi iniciar o desenvolvimento da cobertura de testes e começar o desenvolvimento da nova feature de fornecedores
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
