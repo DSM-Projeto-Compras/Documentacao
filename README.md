@@ -220,9 +220,9 @@ Ela pode ser acessada pelo link [Documentação de Testes e Testes de Caixa Pret
 
 |    Função     |                  Nome                 |                          GitHub                              | 
 | :-----------: | :-----------------------------------: | :----------------------------------------------------------: |
-| Product Owner | Paulo César Ap. Q. V. Victório        |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/paulovictorio)|
+| Product Owner | Felipe Thiago da Silva                |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-Thiago)|
 | Dev Team | Eduardo Brando Almeida                     |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Eduardo-Brando-Almeida)|
-| Dev Team  | Felipe Thiago da Silva                    |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-Thiago)|
+| Dev Team | Paulo César Ap. Q. V. Victório            |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flatsquare&logo=github&logoColor=white)](https://github.com/paulovictorio)|
 | Dev Team | Thiago Saldanha Diegoli                    |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/thiago-diegoli)|
 | Dev Team | Yara Paes de Bona                          |[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)|
 
