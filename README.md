@@ -94,8 +94,13 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 | | | | Alerta para email já existente |
 | RF11 | Listagem de usuários administradores | Visualizar ou excluir nome e email de admins cadastrados | Alerta para erro ao excluir usuário |
 | RF12 | Alteração do status de um pedido (administrador) | Selecionar opções de "aprovar/negar" | Alerta para erro ao alterar status |
+| | | Ao aprovar, o pedido pássara pelos estágios de aprovação aonde o fornecedor será atrelado e o funcionário (usuário) acompanhará até que o pedido esteja disponível | |
 | RF13 | Realizar cadastro de fornecedores | Administradores cadastram nome, CNPJ, rua, número, bairro, cidade, email, telefone | Alerta para fornecedor já existente |
-| | | | Alerta para erro no cadastro ||
+| | | | Alerta para erro no cadastro |
+| RF14 | Listagem de fornecedores | Visualizar informações básicas de fornecedores: nome, cidade, CNPJ, email, telefone  | |
+| | | Cliclar em um fornecedor para abrir o modal com todas as informações sobre o mesmo | |
+
+
 
  ### Requisitos Não Funcionais
 |   ID  |             Título            |
