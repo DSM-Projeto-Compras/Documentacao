@@ -28,13 +28,29 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### 
+### RF 12, RF 13, RF 14, RF 15, RNF 12 : Alteração do status de um pedido, Realizar cadastro de fornecedores, Listagem de fornecedores, Chatbot fincional com reconhecimento de voz, Cobertura e documentação de testes
 
-Esses requisitos se referem a atualização da aplicação web para espelhar o desenvolvimento mobile.
 
-- **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados e cadastra novos funcionários
-- **Funcionário Geral** altera a senha.
-- **Testes de Caixa-Preta** foram realizados em todos os inputs encontrados na aplicação
+
+Esses requisitos se referem a conclusão dos status de pedido do sistema Gerenciador de Pedidos de Compra
+
+### RF 12 : Alteração do status de um pedido
+
+- **Funcionário diretor de serviços administrativos** visualiza que um pedido foi feito trocando o status para visto, avalia o pedido, decide se o pedido será aceito ou negado, caso negado, deve haver justificativa, caso aceito, passará para o estado de aguardando compra, em seguida será determinado ou cadastrado o fornecedor responsável por vender o produto, seguindo o status para aguardando a entrega, uma vez que atualizado, passará para o estado de aguardando retirada do usuário, quando atualizado, o pedido será finalizado.  
+- **Funcionário Geral** visualiza que seu pedido está pendente até que o funcionário diretor de serviços administrativos visualize, o tornando pendente, em seguida o funcionário geral (usuário) aguarda o deferimento ou cancelamento do pedido, caso cancelado, o usuário poderá ler a descrição e compreender o motivo do cancelamento, caso deferido, o usuário visualizara os estágios até que o produto esteja a seu aguardo na diretoria de serviços administrativos.
+- **Testes de Caixa-Preta** foram realizados em todos os inputs encontrados na aplicação.
+
+### RF 13 : Realizar cadastro de fornecedores
+
+- **Funcionário diretor de serviços administrativos** cadastra fornecedores pela tela de cadastro de fornecedores ou ao alterar o status de um pedido de aprovado para realizado.
+
+### RF 14 : Listagem de fornecedores
+
+- **Funcionário diretor de serviços administrativos** visualiza os fornecedores cadastrados e suas informações mais essênciais, pode clicar em um fornecedor para abrir um modal com todas as informações dele.
+
+
+
+
 
 </div>
 
