@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 11: 31/10/2025 a 14/11/2025</h1>
+<h1 align="center">Sprint 12: 14/11/2025 a 28/11/2025</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -9,15 +9,17 @@
     <a href="#links">Links úteis</a> 
 </p>
 
-Nesta sprint o objetivo foi iniciar o desenvolvimento da cobertura de testes e começar o desenvolvimento da nova feature de fornecedores
+Nesta sprint o objetivo foi finalizar o desenvolvimento do projeto Gerenciador de Pedidos de Compras
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
 
 Os requisitos abrangidos por essa sprint são:
-- **RF 02:** Usuários logam por email e senha
-- **RF 10:** Cadastro de novo usuário administrador
-- **RF 11:** Listagem de usuários administradores
+- **RF 12:** Alteração do status de um pedido (administrador)
+- **RF 13:** Realizar cadastro de fornecedores
+- **RF 14:** Listagem de fornecedores
+- **RF 15:** ChatBot funcional com reconhecimento de voz
 - **RNF 12:** Cobertura e documentação de testes
 
 <span id="entregas">
@@ -26,7 +28,7 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 02, RF10, RF 11, RNF 12 : Realizar recuperação de senha via web, Cadastro de usuário administrador web, Listagem de usuários administradores web, Cobertura e documentação de testes
+### 
 
 Esses requisitos se referem a atualização da aplicação web para espelhar o desenvolvimento mobile.
 
