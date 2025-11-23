@@ -99,6 +99,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 | | | | Alerta para erro no cadastro |
 | RF14 | Listagem de fornecedores | Visualizar informações básicas de fornecedores: nome, cidade, CNPJ, email, telefone  | |
 | | | Cliclar em um fornecedor para abrir o modal com todas as informações sobre o mesmo | |
+| RF15 | ChatBot funcional com reconhecimento de voz | Navegação e apoio do usuário para realizar a solicitação do produto para compras |  |
 
 
 
