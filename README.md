@@ -94,6 +94,8 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 | | | | Alerta para email já existente |
 | RF11 | Listagem de usuários administradores | Visualizar ou excluir nome e email de admins cadastrados | Alerta para erro ao excluir usuário |
 | RF12 | Alteração do status de um pedido (administrador) | Selecionar opções de "aprovar/negar" | Alerta para erro ao alterar status |
+| RF13 | Realizar cadastro de fornecedores | Administradores cadastram nome, CNPJ, rua, número, bairro, cidade, email, telefone | Alerta para fornecedor já existente |
+| | | | Alerta para erro no cadastro ||
 
  ### Requisitos Não Funcionais
 |   ID  |             Título            |
