@@ -28,7 +28,7 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 12, RF 13, RF 14, RF 15, RNF 12 : Alteração do status de um pedido, Realizar cadastro de fornecedores, Listagem de fornecedores, Chatbot fincional com reconhecimento de voz, Cobertura e documentação de testes
+### RF 12, RF 13, RF 14, RF 15, RNF 12 : Alteração do status de um pedido, Realizar cadastro de fornecedores, Listagem de fornecedores, Chatbot funcional com reconhecimento de voz, Cobertura e documentação de testes
 
 
 
@@ -48,7 +48,9 @@ Esses requisitos se referem a conclusão dos status de pedido do sistema Gerenci
 
 - **Funcionário diretor de serviços administrativos** visualiza os fornecedores cadastrados e suas informações mais essênciais, pode clicar em um fornecedor para abrir um modal com todas as informações dele.
 
+### RF 15 : Chatbot funcional com reconhecimento de voz
 
+- **Funcionário Geral** pode escolher navegar pelo site com reconhecimento de voz e caso tenha dúvidas sobre como preencher o pedido, pode abrir a aba do chatbot e fazer perguntas pertinentes a aplicação sobre como utilizar da forma correta.
 
 
 
@@ -56,7 +58,7 @@ Esses requisitos se referem a conclusão dos status de pedido do sistema Gerenci
 
 ## :bookmark_tabs: Diário e Desafios
 
-- **RF 02, RF 10, RF 11, RNF 12** : Durante a atualização do sistema web, atualizações na implementação da pesquisa por itens na BEC foi removida do front-end web e mobile e passada para o back-end, aplicando o conceito de um sistema S.O.L.I.D, porém desviando atenção da equipe de desenvolvimento, de qualquer forma, a atualização do sistema WEB foi finalizada e a documentação de testes junto dos testes de caixa preta foram concluídos. A nova feature da troca de senha de administradores já entrou em produção antes do início da próxima sprint.
+- **RF 12, RF 13, RF 14, RF 15, RNF 12** : 
 
 → [Voltar ao topo](#topo)
     
