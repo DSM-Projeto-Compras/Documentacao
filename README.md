@@ -45,7 +45,7 @@ Este requisito se refere a tela em que o funcionário pode recuperar sua senha c
 
 ## :bookmark_tabs: Diário e Desafios
 
-- **RF 02, RF 10, RF 11, RF 13, RF 14, RNF 12** : Durante a atualização do sistema web, atualizações na implementação da pesquisa por itens na BEC foi removida do front-end web e mobile e passada para o back-end, aplicando o conceito de um sistema S.O.L.I.D, porém desviando atenção da equipe de desenvolvimento, de qualquer forma, a atualização do sistema WEB foi finalizada e a documentação de testes junto dos testes de caixa preta foram concluídos. A nova feature da troca de senha de administradores já entrou em produção antes do início da próxima sprint.
+- **RF 02, RF 10, RF 11, RF 13, RF 14, RNF 12** : 
 
 → [Voltar ao topo](#topo)
     
