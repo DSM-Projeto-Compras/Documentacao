@@ -1,7 +1,7 @@
 # Gerenciador de Pedidos de Compras 
 <br id="topo">
 <div align="center">
-    <img src="/fatec-votorantim.png" alt="Logo fatec">
+    <img src="https://github.com/DSM-Projeto-Compras/Documentacao/tree/main/fatec-votorantim.png" alt="Logo fatec">
 </div>
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
