@@ -28,27 +28,18 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-### RF 02, RF10, RF 11, RF 13, RF 14, RNF 12 : Realizar recuperação de senha via web, Cadastro de usuário administrador web, Listagem de usuários administradores web, Realizar cadastro de fornecedores, Listagem de fornecedores, Cobertura e documentação de testes
-
 Esses requisitos se referem a finalização da atualização da aplicação web para espelhar o desenvolvimento mobile e adição de novas features para completar o projeto.
 
 ### RF 02 : Realizar recuperação de senha via web
-- **Funcionário Geral** altera a senha.
+
+Este requisito se refere a tela em que o funcionário pode recuperar sua senha caso ele a esqueça.
+  
+### RF 10 e 11 : Cadastro de novo usuário administrador e Listagem de usuários administradores
+- **Funcionário diretor de serviços administrativos** cadastra novos funcionários e deleta funcionários e visualiza administradores cadastrados.
 - **Testes de Caixa-Preta** foram realizados em todos os inputs encontrados na aplicação
   
-### RF 10 : Cadastro de novo usuário administrador
-- **Funcionário diretor de serviços administrativos** cadastra novos funcionários e deleta funcionários
-- **Testes de Caixa-Preta** foram realizados em todos os inputs encontrados na aplicação
-
-### RF 11 : Listagem de usuários administradores
-- **Funcionário diretor de serviços administrativos** visualiza administradores cadastrados
-- **Testes de Caixa-Preta** foram realizados em todos os inputs encontrados na aplicação
-
-### RF 13 : Realizar cadastro de fornecedores
-- **Funcionário diretor de serviços administrativos** cadastra novos fornecedores
-
-### RF 14 : Listagem de fornecedores
-- **Funcionário diretor de serviços administrativos** visualiza informações essênciais dos fornecedores cadastrados e clica na célula de um fornecedor para ver todas as informações cadastradas sobre ele
+### RF 13 e 14 : Realizar cadastro de fornecedores e Listagem de fornecedores
+- **Funcionário diretor de serviços administrativos** cadastra novos fornecedores e visualiza informações essênciais dos fornecedores cadastrados e clica na célula de um fornecedor para ver todas as informações cadastradas sobre ele.
 
 </div>
 
