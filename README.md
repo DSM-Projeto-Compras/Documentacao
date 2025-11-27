@@ -11,6 +11,9 @@
 
 Nesta sprint o objetivo foi finalizar o processo, entregando a integração completa do back-end e analise de segurança.
 
+### Tempo de desenvolvimento da sprint : 10 horas e 40 minutos
+### Tempo de desenvolvimento do projeto: 208 horas e 50 minutos
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
