@@ -11,6 +11,9 @@
 
 Nesta sprint o objetivo foi finalizar itens deixados da primeira sprint e iniciar a produção de novas features
 
+### Tempo de desenvolvimento da sprint : 15 horas e 55 minutos
+### Tempo de desenvolvimento do projeto: 227 horas e 55 minutos
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
