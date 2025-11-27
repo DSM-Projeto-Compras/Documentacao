@@ -11,6 +11,9 @@
 
 Nesta sprint o objetivo foi continuar o desenvolvimento do site para o deixar operacional.
 
+### Tempo de desenvolvimento da sprint : 3 horas e 10 minutos
+### Tempo de desenvolvimento do projeto: 212 horas
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
