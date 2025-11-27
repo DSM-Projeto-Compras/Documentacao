@@ -11,6 +11,9 @@
 
 Nesta sprint o objetivo foi atualizar o site para o mesmo nível da aplicação mobile, realizar o planejamento de testes e os testes de caixa preta
 
+### Tempo de desenvolvimento da sprint : 32 horas e 15 minutos
+### Tempo de desenvolvimento do projeto: 260 horas e 10 minutos
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
