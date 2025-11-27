@@ -11,6 +11,9 @@
 
 Nesta sprint o objetivo foi finalizar o desenvolvimento do projeto Gerenciador de Pedidos de Compras
 
+### Tempo de desenvolvimento da sprint :
+### Tempo de desenvolvimento do projeto:
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
