@@ -10,6 +10,9 @@
 </p>
 
 Nesta sprint o objetivo foi iniciar o desenvolvimento da cobertura de testes, começar o desenvolvimento da nova feature de fornecedores e inicia o desenvolvimento da cobertura de testes.
+
+### Tempo de desenvolvimento da sprint : 17 horas e 10 minutos
+### Tempo de desenvolvimento do projeto: 227 horas e 20 minutos
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
