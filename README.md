@@ -48,7 +48,7 @@ Este requisito se refere a tela em que o funcionário pode recuperar sua senha c
 
 ## :bookmark_tabs: Diário e Desafios
 
-- **RF 02, RF 10, RF 11, RF 13, RF 14, RNF 12** : 
+- **RF 02, RF 10, RF 11, RF 13, RF 14, RNF 12** : Foi desenvolvido um CRUD completo de fornecedores incluindo integração com ViaCEP para preenchimento automático de endereços, e implementado soft delete através do campo ativado para preservar dados históricos. Também foi criado o backend de troca de senhas de administradores e implementado no frontend. Foi finalizado também a recuperação de senha do usuário. 
 
 → [Voltar ao topo](#topo)
     
