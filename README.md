@@ -11,8 +11,8 @@
 
 Nesta sprint o objetivo foi finalizar o desenvolvimento do projeto Gerenciador de Pedidos de Compras
 
-### Tempo de desenvolvimento da sprint :
-### Tempo de desenvolvimento do projeto:
+### Tempo de desenvolvimento da sprint : 98 horas e 45 minutos
+### Tempo de desenvolvimento do projeto: 376 horas e 5 minutos
 
 <span id="objetivos">
 
@@ -61,7 +61,7 @@ Esses requisitos se referem a conclusão dos status de pedido do sistema Gerenci
 
 ## :bookmark_tabs: Diário e Desafios
 
-- **RF 12, RF 13, RF 14, RF 15, RNF 12** : 
+- **RF 12, RF 13, RF 14, RF 15, RNF 12** : Foi desenvolvida a nova tela de gerenciamento de pedidos (AdminOrdersTemplate) apresenta um fluxo de status em kanban (Aprovado → Realizado → Entregue → Finalizado), permitindo atribuir fornecedores aos pedidos através do relacionamento supplierId e gerenciar transições de estado. As consultas de produtos no backend passaram a incluir dados completos do fornecedor (mesmo desativado), garantindo rastreabilidade e exibição correta na interface, enquanto o modelo de Supplier filtra apenas fornecedores ativos nas listagens e valida CNPJ considerando apenas registros ativos. Foi desenvolvido um chatbot para que os usuários possam tirar dúvidas sobre a usabilidade do sistema, junto um sistema de reconhecimento de voz para conversar com o chatbot e realizar navegação por voz, o sistema de reconhecimento de voz utiliza o SpeechRecognition do google chrome, então é uma ferramenta exclusiva do navegador. Ouve adição de validators para formulários do frontend. A cobertura de testes foi estendida para as features de fornecedores. 
 
 → [Voltar ao topo](#topo)
     
