@@ -3,9 +3,11 @@
 <h1 align="center">Sprint 4: 01/05/2025 a 18/05/2025</h1>
 
 <p align="center">
+    <a href="https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md">Sprint 3</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-05/README.md">Sprint 5</a>
 </p>
 
 Nesta sprint o objetivo foi começar a adaptar o projeto para o uso em dispositivos mobiles, planejando sua construção completa através do protótipo do Figma.
@@ -62,3 +64,9 @@ Este requisito se refere à visualização de pedidos realizados pelo usuário e
 → [Voltar ao topo](#topo)
     
 <span id="links">
+
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/DSM-Projeto-Compras/Documentacao)
+- Site do projeto: [https://front-end-wine-nu.vercel.app](https://front-end-wine-nu.vercel.app)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
