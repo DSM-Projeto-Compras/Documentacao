@@ -29,6 +29,8 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 
 :pushpin: Status do Projeto: **🧵 Em desenvolvimento** 
 
+[Clique aqui para acessar o projeto](https://front-end-five-kappa.vercel.app/pages/login)
+
 ### 🏁 Entregas de Sprints (Web)
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
