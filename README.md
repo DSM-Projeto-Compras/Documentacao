@@ -3,6 +3,7 @@
 <h1 align="center">Sprint 12: 14/11/2025 a 28/11/2025</h1>
 
 <p align="center">
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-11/README.md">Sprint 11</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
@@ -59,6 +60,8 @@ Esses requisitos se referem a conclusão dos status de pedido do sistema Gerenci
 
 </div>
 
+<span id="problemas">
+
 ## :bookmark_tabs: Diário e Desafios
 
 - **RF 12, RF 13, RF 14, RF 15, RNF 12** : Foi desenvolvida a nova tela de gerenciamento de pedidos (AdminOrdersTemplate) apresenta um fluxo de status em kanban (Aprovado → Realizado → Entregue → Finalizado), permitindo atribuir fornecedores aos pedidos através do relacionamento supplierId e gerenciar transições de estado. As consultas de produtos no backend passaram a incluir dados completos do fornecedor (mesmo desativado), garantindo rastreabilidade e exibição correta na interface, enquanto o modelo de Supplier filtra apenas fornecedores ativos nas listagens e valida CNPJ considerando apenas registros ativos. Foi desenvolvido um chatbot para que os usuários possam tirar dúvidas sobre a usabilidade do sistema, junto um sistema de reconhecimento de voz para conversar com o chatbot e realizar navegação por voz, o sistema de reconhecimento de voz utiliza o SpeechRecognition do google chrome, então é uma ferramenta exclusiva do navegador. Ouve adição de validators para formulários do frontend. A cobertura de testes foi estendida para as features de fornecedores. 
@@ -66,3 +69,10 @@ Esses requisitos se referem a conclusão dos status de pedido do sistema Gerenci
 → [Voltar ao topo](#topo)
     
 <span id="links">
+
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/DSM-Projeto-Compras/Documentacao)
+- Site do projeto: [https://front-end-wine-nu.vercel.app](https://front-end-wine-nu.vercel.app)
+- ChatBot funcional: [ChatBot](https://front-end-wine-nu.vercel.app/pages/chat-bot)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
