@@ -3,10 +3,12 @@
 <h1 align="center">Sprint 9: 03/10/2025 a 17/10/2025</h1>
 
 <p align="center">
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-08/README.md">Sprint 8</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-10/README.md">Sprint 10</a>
 </p>
 
 Nesta sprint o objetivo foi finalizar itens deixados da primeira sprint e iniciar a produção de novas features
@@ -46,3 +48,9 @@ Esses requisitos se referem a atualização da aplicação web para espelhar o d
 → [Voltar ao topo](#topo)
     
 <span id="links">
+
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/DSM-Projeto-Compras/Documentacao)
+- Site do projeto: [https://front-end-wine-nu.vercel.app](https://front-end-wine-nu.vercel.app)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
