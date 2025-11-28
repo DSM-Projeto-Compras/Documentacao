@@ -3,10 +3,12 @@
 <h1 align="center">Sprint 11: 31/10/2025 a 14/11/2025</h1>
 
 <p align="center">
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-10/README.md">Sprint 10</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a> 
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-12/README.md">Sprint 12</a>
 </p>
 
 Nesta sprint o objetivo foi iniciar o desenvolvimento da cobertura de testes, começar o desenvolvimento da nova feature de fornecedores e inicia o desenvolvimento da cobertura de testes.
@@ -53,3 +55,9 @@ Este requisito se refere a tela em que o funcionário pode recuperar sua senha c
 → [Voltar ao topo](#topo)
     
 <span id="links">
+
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/DSM-Projeto-Compras/Documentacao)
+- Site do projeto: [https://front-end-wine-nu.vercel.app](https://front-end-wine-nu.vercel.app)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
