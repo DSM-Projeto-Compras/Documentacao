@@ -30,7 +30,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 :pushpin: Status do Projeto: **📀Concluído** 
 
 [Clique aqui para acessar o projeto](https://front-end-five-kappa.vercel.app/pages/login)
-
+<!--
 ### 🏁 Entregas de Sprints (Web)
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
@@ -38,7 +38,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 02 | 03/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-02/README.md)|
 | 03 | 17/06/2024 |  ✔️Concluído    |[ver relatório](https://github.com/paulovictorio/Documentacao_projetoCompras/blob/sprint-03/README.md)|
 
-<!--
+
 ### 🏁 Entregas de Sprints (Mobile)
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
@@ -46,7 +46,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 05 | 05/06/2025 |  ✔️Concluído    |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-05/README.md)|
 | 06 | 25/06/2025 |  ✔️Concluído    |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-06/README.md)|
 -->
-### 🏁 Entregas de Sprints Final
+### 🏁 Entregas de Sprints 
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 07 | 26/09/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-07/README.md)|
