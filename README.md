@@ -137,9 +137,9 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 |   09   | 13 |   Administrador   | Alterar status      | Especificar estágio do processo do pedido |
 |   11   | 14 |   Administrador   | Cancelar pedido     | Dar o motivo do cancelamento
 |   12   | 15 |   Administrador   | Realizar cadastros  | Cadastrar novos administradores
- 
-<span id="cloud">
 
+<!--
+<span id="cloud">
 ## ☁️ Computação em Nuvem 
 ### Requisitos do Projeto:
 |  ID  |                Requisito                  |      Status     |                                Observação                               |
@@ -159,6 +159,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 ### Desenho da arquitetura:
 <img src="/projetocompras-aws.drawio.png" alt="Arquitetura nuvem"/>
+-->
 
 ### 🐳 Docker
 <span id="docker">
