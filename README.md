@@ -3,9 +3,11 @@
 <h1 align="center">Sprint 5: 19/05/2025 a 05/06/2025</h1>
 
 <p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-04/README.md">Sprint 4</a> &nbsp |&nbsp &nbsp
+    <a href="#objetivos">Objetivos da sprint</a>  
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-06/README.md">Sprint 6</a>
 </p>
 
 Nesta sprint o objetivo foi começar a adaptar o projeto para o uso em dispositivos mobiles, definindo novos requisitos e planejando a criação de ambientes na nuvem.
@@ -74,3 +76,9 @@ Este requisito se refere à visualização de pedidos realizados pelo usuário e
 → [Voltar ao topo](#topo)
     
 <span id="links">
+
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/DSM-Projeto-Compras/Documentacao)
+- Site do projeto: [https://front-end-wine-nu.vercel.app](https://front-end-wine-nu.vercel.app)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
