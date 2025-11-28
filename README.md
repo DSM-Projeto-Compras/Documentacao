@@ -173,6 +173,16 @@ Atualmente, o banco de dados é construído com PostgreSQL pelo Prisma ORM, send
 ```bash
     docker-compose up --build
 ``` 
+
+## 🤖ChatBot
+<span id="chatbot">
+    Como requisito funcional, incluímos neste site um ChatBot de suporte a possíveis dúvidas que o usuário comum possa ter no momento de requisição de uma compra. Este chat também possui assistência de voz, que pode ser ativada por um ícone acima dele.
+    Ele pode ser acessado ao logar no sistema ou separadamente através do link abaixo:
+
+[Clique aqui](https://front-end-wine-nu.vercel.app/pages/chat-bot) para acessar o chatbot.
+    
+<img width="1366" height="607" alt="image" src="https://github.com/user-attachments/assets/e708fd33-5525-4bcd-9ec7-bc4aa61d22e1" />
+
     
 → [Voltar ao topo](#topo)
 
@@ -207,7 +217,7 @@ Ela pode ser acessada pelo link [Documentação de Testes e Testes de Caixa Pret
 <span id="tecnologias">
     <p align="center">
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,docker,nodejs,mongodb,vercel,vscode,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,docker,nodejs,mongodb,vercel,vscode,figma" />
   </a>
 </p>
 </span>
