@@ -3,10 +3,12 @@
 <h1 align="center">Sprint 7: 12/09/2025 a 26/09/2025</h1>
 
 <p align="center">
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-06/README.md">Sprint 6</a> &nbsp |&nbsp &nbsp
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
     <a href="#problemas">Diário e Desafios</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#links">Links úteis</a> &nbsp |&nbsp &nbsp
+    <a href="https://github.com/DSM-Projeto-Compras/Documentacao/blob/sprint-08/README.md">Sprint 8</a>
 </p>
 
 Nesta sprint o objetivo foi finalizar o processo, entregando a integração completa do back-end e analise de segurança.
@@ -49,3 +51,9 @@ Esse requisito se refere ao porte do banco de dados não relacional para um banc
 → [Voltar ao topo](#topo)
     
 <span id="links">
+
+## :link: Links úteis
+
+- Repositório do projeto: [Projeto de compras](https://github.com/DSM-Projeto-Compras/Documentacao)
+- Site do projeto: [https://front-end-wine-nu.vercel.app](https://front-end-wine-nu.vercel.app)
+- Voltar ao [documento principal](https://github.com/DSM-Projeto-Compras/Documentacao)
