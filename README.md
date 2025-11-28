@@ -27,7 +27,7 @@ Baseado em necessidades apontadas por funcionários, o usuário utilizará o sis
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
 
-:pushpin: Status do Projeto: **🧵 Em desenvolvimento** 
+:pushpin: Status do Projeto: **📀Concluído** 
 
 [Clique aqui para acessar o projeto](https://front-end-five-kappa.vercel.app/pages/login)
 
@@ -53,7 +53,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 09 | 17/10/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-09/README.md)|
 | 10 | 31/10/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-10/README.md)|
 | 11 | 14/11/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-11/README.md)|
-| 12 | 28/11/2025 |  🛠Em Produção |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-12/README.md)|
+| 12 | 28/11/2025 |  ✔️Concluído  |[ver relatório](https://github.com/DSM-Projeto-Compras/Documentacao/tree/sprint-12/README.md)|
 
 
 ### :clapper: Apresentação Final
