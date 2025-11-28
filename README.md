@@ -138,25 +138,29 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 |   11   | 14 |   Administrador   | Cancelar pedido     | Dar o motivo do cancelamento
 |   12   | 15 |   Administrador   | Realizar cadastros  | Cadastrar novos administradores
 
-<!--
+<
 <span id="cloud">
 ## ☁️ Computação em Nuvem 
+Durante o quinto semestre, planejamos e esquematizamos um sistema para que fosse disponibilizado na nuvem pela AWS. Infelizmente, não é financeiramente viável manter uma nuvem paga e, por isso, optamos por ter um sistema todo no Vercel.
+Atualmente, o banco de dados é construído com PostgreSQL pelo Prisma ORM, sendo acessado na nuvem também com o Vercel.
+
 ### Requisitos do Projeto:
 |  ID  |                Requisito                  |      Status     |                                Observação                               |
 |:----:|:-----------------------------------------:|:--------------:|:------------------------------------------------------------------------:|
-|  01  | Persistência das informações em um BD SQL | 🟩 OK          | |
-|  02  | Deploy do Back e Front na AWS             | 🟩 OK          | |
-| 02.3 | Integração docker front e back na AWS     | 🟩 OK          | |
-|  03  | Integração Back, Front e BDs na AWS       | 🟩 OK          | |
+|  01  | Persistência das informações em um BD Postgres | 🟩 OK          | |
+|  02  | Deploy do Back e Front no Vercel             | 🟩 OK          | |
+| 02.3 | Integração docker front e back no Vercel     | 🟩 OK          | |
+|  03  | Integração Back, Front e BDs no Vercel       | 🟩 OK          | |
 |  04  | Monitoramento e observabilidade do Back   | 🟩 OK          | |
-|  05  | Feature para upload de objetos            | 🟩 OK          | |
-|  06  | Armazenamento de objeto no S3             | 🟩 OK          | |
-|  07  | Documentação da implementação             | 🟩 OK          | |
-|  08  | Gestão dos custos                         | 🟩 OK          | Gestão primária de custos realizada e avaliada pelo painel da AWS        |
-|  09  | Gerenciamento de IAM                      | 🟩 OK          | |
-|  10  | Criação do cenário TO-BE de policies      | 🟩 OK          | Cenário de políticas adaptada ao uso restrido do AWS Lab                 |
+|  05  | Documentação da implementação             | 🟩 OK          | |
+|  08  | Gestão dos custos                         | 🟩 OK          | Totalmente gratuita, limitada a um uso seguro dado o contexto        |
+|  09  | Gerenciamento de IAM                      | 🟩 OK          | Gerido pelo permissionamento da organização no GitHub |
 
+<!--|  05  | Feature para upload de objetos            | 🟩 OK          | |
+|  06  | Armazenamento de objeto no S3             | 🟩 OK          | |-->
+<!--|  10  | Criação do cenário TO-BE de policies      | 🟩 OK          | Cenário de políticas adaptada ao uso restrido do AWS Lab                 |-->
 
+<!--
 ### Desenho da arquitetura:
 <img src="/projetocompras-aws.drawio.png" alt="Arquitetura nuvem"/>
 -->
