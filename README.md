@@ -206,8 +206,9 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 Elas podem ser acessadas pelos links: [Documentação do projeto](documentacao_compras_pi.pdf)
 E [Documentação ihc](ihc_compras.pdf). <br>
 A documentação de testes foi feita para detalhar o planejamento de testes e a realização dos testes de caixa preta.
-Ela pode ser acessada pelo link [Documentação de Testes e Testes de Caixa Preta](documentação_de_testes_e_testes_de_caixa_preta.pdf)
-
+Ela pode ser acessada pelo link [Documentação de Testes e Testes de Caixa Preta](documentação_de_testes_e_testes_de_caixa_preta.pdf).
+Os testes de performance foram desenvolvidos pela ferramenta LightHouse do google.
+Eles podem ser acessados pelo link [Testes de Performance](performance_testes.pdf).
 <span id="link">
     
 > 🔗 **Links gerais** <br>
